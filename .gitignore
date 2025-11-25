@@ -1,0 +1,42 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data and models (keep out of repo; store in artifacts or data storage)
+/models/
+/mlruns/
+/data/*.parquet
+
+# env
+.env
+
+# pytest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/

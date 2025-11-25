@@ -1,0 +1,1001 @@
+age,gender,marital_status,education,monthly_salary,employment_type,years_of_employment,company_type,house_type,monthly_rent,family_size,dependents,school_fees,college_fees,travel_expenses,groceries_utilities,other_monthly_expenses,existing_loans,current_emi_amount,credit_score,bank_balance,emergency_fund,emi_scenario,requested_amount,requested_tenure,max_monthly_emi,emi_eligibility
+28,Female,Single,Post Graduate,129551,Private,18,Small,Own,0,1,3,18385,21812,4726,2956,2722,0,0,807,455774,47025,Education,171614,30,50000,Eligible
+52,Female,Married,Graduate,168406,Private,0,Medium,Rented,38442,4,2,365,26210,7063,22181,5489,2,16528,585,368055,77125,Education,483601,36,31515,Not_Eligible
+48,Female,Single,Professional,133436,Private,27,Medium,Own,0,4,0,17116,4302,7410,7991,10606,1,10994,638,207421,5769,Personal Loan,345776,45,48823,High_Risk
+40,Female,Single,Graduate,124908,Private,18,Small,Rented,45571,5,3,15553,7381,6547,21915,783,0,0,494,40179,140807,Home Appliances,290688,13,17577,Not_Eligible
+40,Male,Married,High School,101461,Government,31,Small,Rented,28200,4,3,15874,1120,6029,17808,13664,2,29928,790,76347,183772,Personal Loan,270761,13,500,Not_Eligible
+55,Female,Single,Post Graduate,60298,Private,25,Medium,Own,0,2,1,3238,14669,6496,7675,2565,2,15166,341,121357,157331,Vehicle,1275992,72,11435,Not_Eligible
+28,Female,Married,Graduate,66942,Private,32,Medium,Own,0,3,1,17622,14824,2564,15147,11805,0,0,452,203145,61859,Education,236170,43,16826,Not_Eligible
+50,Female,Single,High School,152950,Government,18,Medium,Family,0,3,0,11975,891,2463,3026,9248,2,19162,846,442948,96538,Home Appliances,202434,36,50000,Eligible
+32,Female,Married,High School,27915,Private,0,Medium,Own,0,6,3,8039,19847,9344,21651,12715,2,24440,566,59787,191521,E-commerce,185306,24,500,Not_Eligible
+28,Female,Married,Graduate,30629,Private,5,Medium,Family,0,4,3,13622,266,6004,10506,11627,2,26798,396,288460,85084,E-commerce,84563,16,500,Not_Eligible
+43,Male,Married,High School,88383,Self-employed,18,Small,Own,0,4,0,6829,23786,8682,12737,7738,1,4171,527,173660,167824,E-commerce,41782,22,26164,Not_Eligible
+60,Female,Married,Graduate,158268,Government,16,Medium,Own,0,5,2,5587,21164,6443,6399,11341,0,0,440,23293,115484,Personal Loan,352118,33,50000,Not_Eligible
+51,Male,Married,High School,136552,Self-employed,32,Small,Rented,42613,3,1,5764,24454,4825,12219,5197,1,5222,589,309664,99786,E-commerce,122917,20,27415,Not_Eligible
+52,Male,Married,Graduate,124147,Self-employed,16,Medium,Own,0,6,2,11386,3548,5919,13082,8755,2,15636,429,352128,117033,E-commerce,149030,24,39147,Not_Eligible
+50,Female,Single,Graduate,113815,Self-employed,35,Small,Rented,10358,5,0,12021,26112,7071,8298,13726,1,7886,520,479741,44721,Home Appliances,219635,30,30599,Not_Eligible
+53,Female,Single,Graduate,35488,Government,7,Small,Rented,7423,6,3,4805,16434,2268,29422,1271,1,1051,800,253341,85096,Personal Loan,593832,32,500,Not_Eligible
+43,Male,Married,Graduate,76382,Private,15,Medium,Rented,16410,5,1,4912,25900,4890,9834,5337,2,27072,345,162700,60870,Vehicle,1376943,39,500,Not_Eligible
+29,Male,Married,High School,29708,Private,31,Medium,Family,0,4,3,18927,20880,7369,7070,259,1,13038,720,427261,151533,Home Appliances,193689,15,500,Not_Eligible
+55,Male,Single,Graduate,155259,Private,5,Medium,Own,0,1,0,10298,19692,1327,17350,8014,0,0,343,123678,122476,Home Appliances,155069,17,50000,Not_Eligible
+41,Male,Married,Graduate,153905,Government,13,Medium,Family,0,4,2,17204,967,1195,10928,11732,2,10564,551,341217,79944,Education,166264,41,50000,Not_Eligible
+43,Male,Married,Graduate,62747,Private,30,Large,Family,0,1,1,6603,20760,2021,14711,578,1,12572,668,471695,164501,Vehicle,1169541,63,14220,Not_Eligible
+38,Male,Married,High School,69193,Self-employed,24,Large,Family,0,4,3,5761,13462,6116,22303,8241,1,4798,826,2223,90600,Home Appliances,43245,13,9727,Eligible
+31,Female,Married,High School,73729,Private,31,Large,Rented,46319,5,2,5652,25477,2765,4190,6228,1,5281,437,462589,190660,Personal Loan,257163,46,500,Not_Eligible
+58,Female,Married,Graduate,179521,Private,21,Medium,Family,0,4,2,10576,20525,4644,16257,11741,2,29932,329,102869,121064,Home Appliances,269885,17,50000,Not_Eligible
+53,Female,Married,Graduate,105377,Private,35,Medium,Family,0,2,0,15582,2230,1771,2607,3302,2,27870,713,240788,177144,Home Appliances,112490,23,34126,Eligible
+48,Male,Single,Graduate,155984,Private,35,Medium,Family,0,1,2,10013,26692,2877,3230,2441,2,18364,792,128982,197370,Personal Loan,988264,30,50000,Eligible
+39,Male,Married,Post Graduate,98033,Private,39,Medium,Rented,22819,5,0,5899,1887,668,4590,1420,2,6738,611,72251,65399,Home Appliances,97931,22,29533,High_Risk
+54,Male,Single,Graduate,144165,Private,5,Small,Rented,37317,5,1,19201,8977,8171,6527,6111,0,0,333,351116,52137,Vehicle,1380571,65,40044,Not_Eligible
+44,Female,Married,Graduate,112740,Government,24,Medium,Family,0,3,0,11449,6504,4932,11784,7313,2,29000,575,241094,167127,Personal Loan,542333,47,26014,Not_Eligible
+40,Male,Married,Graduate,66542,Private,4,Small,Rented,15952,5,0,7880,29227,2171,28187,13788,2,9434,515,254657,46390,Home Appliances,24236,29,500,Not_Eligible
+41,Male,Married,High School,177116,Private,9,Small,Own,0,5,2,193,4596,5499,27374,6988,0,0,548,241800,150420,E-commerce,28548,11,50000,Not_Eligible
+33,Male,Married,Graduate,146155,Private,12,Large,Own,0,4,0,11245,25337,9364,4888,2574,1,5945,329,373724,35377,Education,207451,35,50000,Not_Eligible
+28,Female,Married,Graduate,157328,Private,26,Small,Rented,27890,1,2,12421,6665,8336,29753,10485,2,15906,474,483052,173970,Home Appliances,87207,13,23444,Not_Eligible
+44,Male,Married,Graduate,190408,Private,17,Medium,Rented,22169,6,3,18575,19519,8904,19783,922,1,14805,850,256434,137889,Home Appliances,267594,20,50000,Eligible
+56,Male,Married,High School,61022,Government,35,Medium,Family,0,3,0,4614,2710,4357,17504,5179,2,18604,325,77796,104208,Vehicle,1132882,54,2221,Not_Eligible
+27,Female,Married,Post Graduate,31938,Government,12,Small,Family,0,5,2,3256,11758,3925,24185,9802,1,7029,803,163692,89819,E-commerce,127781,18,500,Not_Eligible
+55,Female,Single,Post Graduate,122720,Private,25,Large,Family,0,6,1,19986,18693,3504,15564,3809,0,0,585,248015,127453,E-commerce,136843,23,50000,Not_Eligible
+54,Male,Married,High School,75340,Private,31,Small,Rented,6212,3,1,11010,21334,3399,9432,8918,0,0,622,51830,77721,Vehicle,1194577,34,22617,Not_Eligible
+34,Male,Married,Graduate,95619,Private,40,Large,Rented,6565,4,2,537,26175,9237,16830,6799,2,17582,814,114554,79559,Education,126297,42,13637,Eligible
+47,Female,Single,Post Graduate,58414,Private,10,Medium,Own,0,1,2,2113,24486,1806,22302,14281,2,17952,420,101311,40818,Vehicle,609004,34,500,Not_Eligible
+30,Female,Single,Graduate,88717,Self-employed,30,Small,Own,0,6,2,9508,15560,8589,21115,4312,1,2330,842,486478,31568,Vehicle,237747,52,24239,Eligible
+52,Female,Married,Post Graduate,87751,Private,3,Small,Rented,49403,1,0,12350,9099,9206,6757,13597,1,6667,452,200390,178228,Personal Loan,536498,52,500,Not_Eligible
+50,Male,Married,Graduate,79853,Self-employed,22,Small,Own,0,4,2,4874,7837,8519,28268,9388,1,10027,492,439523,149841,Education,386884,37,5376,Not_Eligible
+37,Male,Married,Post Graduate,152332,Private,16,Small,Family,0,3,1,7314,29785,6462,9973,11242,2,3538,547,275727,88635,Education,292316,43,50000,Not_Eligible
+27,Female,Single,Professional,124641,Private,39,Small,Own,0,1,1,14725,18249,8629,24960,2531,2,29338,631,253045,166345,E-commerce,196828,20,23978,High_Risk
+59,Male,Single,High School,102735,Private,31,Large,Own,0,3,3,19353,27259,801,10731,287,2,26106,477,469319,121539,Vehicle,574135,32,30984,Not_Eligible
+41,Male,Single,Graduate,35852,Private,38,Small,Own,0,6,0,9821,13012,8264,3775,10962,2,19834,737,345976,119816,Vehicle,81870,84,500,Not_Eligible
+57,Female,Married,Graduate,120585,Self-employed,34,Large,Rented,26722,2,1,8308,14565,5355,29901,7206,2,2438,311,119860,22506,Home Appliances,225142,35,17392,Not_Eligible
+49,Female,Married,High School,47379,Private,16,Small,Rented,31773,2,1,7223,24773,9606,18486,4633,1,8252,667,140824,107655,Education,404439,24,500,Not_Eligible
+53,Male,Single,Graduate,73118,Self-employed,30,Large,Own,0,2,0,2723,21685,1315,8008,13442,0,0,661,333043,21594,Home Appliances,60608,7,25010,High_Risk
+52,Female,Married,Professional,91758,Self-employed,1,Small,Own,0,1,3,1055,6023,9336,2009,4897,1,1317,594,1120,136786,Education,406452,19,39093,Not_Eligible
+32,Male,Single,High School,41138,Private,22,Medium,Own,0,2,1,16680,15720,5951,5617,6505,2,24172,637,76273,13470,E-commerce,82065,21,500,Not_Eligible
+38,Female,Single,Graduate,87055,Private,1,Medium,Family,0,4,2,742,6403,1486,6756,10863,1,12752,711,37162,102849,Personal Loan,507227,58,26450,Eligible
+41,Female,Single,Post Graduate,64382,Private,29,Small,Rented,31987,5,1,16418,22828,5335,27920,14433,0,0,798,356877,73469,Personal Loan,569274,52,500,Not_Eligible
+42,Male,Single,Graduate,172206,Private,39,Large,Rented,8596,5,3,4945,898,852,6956,13485,2,8450,420,220672,26164,Vehicle,258821,40,50000,Not_Eligible
+26,Female,Married,Graduate,174041,Government,27,Small,Rented,16298,5,2,13897,24810,1287,6534,9787,2,22262,562,5670,94577,E-commerce,44790,4,50000,Not_Eligible
+44,Male,Married,Professional,15845,Private,34,Medium,Rented,34932,5,1,19032,27872,5551,25459,1656,1,13763,609,370829,40134,E-commerce,198413,14,500,Not_Eligible
+30,Female,Single,Graduate,126447,Self-employed,9,Medium,Own,0,3,3,14976,696,8251,26620,1641,1,11793,489,327960,48915,Personal Loan,386007,30,36996,Not_Eligible
+51,Male,Married,High School,133502,Private,40,Medium,Family,0,6,3,14591,18912,1528,7851,10393,0,0,836,359319,177979,Education,158416,11,50000,Eligible
+49,Male,Married,High School,84928,Private,22,Small,Family,0,2,2,5294,2374,2992,20213,7639,2,18864,581,81608,69935,Vehicle,1376983,19,12764,Not_Eligible
+58,Female,Married,Post Graduate,101788,Government,27,Small,Own,0,5,0,11963,10805,4217,16965,1996,0,0,626,437471,80788,E-commerce,83091,6,40776,High_Risk
+51,Female,Married,Graduate,161133,Private,31,Small,Own,0,1,2,12841,10094,5644,18152,10434,1,9087,407,90162,1252,Personal Loan,933133,22,50000,Not_Eligible
+38,Male,Single,Graduate,84923,Self-employed,26,Small,Rented,32111,5,2,8506,15591,506,10717,14135,1,11788,529,285435,60104,Vehicle,639438,67,500,Not_Eligible
+59,Female,Married,High School,26924,Private,13,Small,Own,0,1,1,760,27529,6571,23038,980,0,0,644,279454,70218,E-commerce,118346,11,500,Not_Eligible
+39,Female,Single,Graduate,83914,Self-employed,25,Large,Own,0,2,0,18249,13848,5230,26668,12385,1,3933,536,109361,143831,Home Appliances,177831,19,13240,Not_Eligible
+36,Male,Married,Post Graduate,61970,Government,26,Medium,Family,0,3,2,3937,11948,9642,22328,5170,2,3666,724,187706,23834,Home Appliances,101007,24,6139,Eligible
+57,Female,Single,Graduate,85804,Self-employed,35,Medium,Own,0,5,3,19470,2783,3362,27289,5967,2,24298,375,26099,185975,Education,214369,47,5409,Not_Eligible
+38,Female,Married,Professional,57569,Private,19,Small,Rented,10575,1,1,18646,26626,5191,5094,10756,1,11182,384,235653,25677,Education,258430,38,2280,Not_Eligible
+27,Male,Single,Graduate,42726,Government,20,Small,Rented,28931,2,1,377,9441,1275,20398,3703,0,0,486,338557,130560,E-commerce,54542,17,500,Not_Eligible
+41,Male,Married,Graduate,197293,Private,20,Medium,Rented,12474,3,0,14785,13873,9215,29986,2356,2,4956,475,154444,901,Vehicle,874463,66,50000,Not_Eligible
+53,Female,Married,Post Graduate,38840,Government,4,Small,Family,0,5,2,12682,2769,8422,16999,14458,0,0,749,268884,163921,E-commerce,97727,18,500,Not_Eligible
+31,Male,Married,Graduate,145628,Private,3,Small,Rented,33166,6,3,4613,8665,3871,28373,5225,2,8772,778,476734,139276,Vehicle,163194,62,25966,Eligible
+41,Female,Married,Graduate,147752,Private,0,Medium,Rented,13085,4,3,16256,16601,4875,11754,2543,1,8271,560,117307,167512,E-commerce,153155,13,50000,Not_Eligible
+29,Female,Married,Post Graduate,129291,Private,27,Medium,Rented,9621,4,1,2227,27020,8646,27105,10349,1,7984,578,145328,186257,Personal Loan,82584,39,27809,Not_Eligible
+49,Male,Married,Graduate,183620,Private,17,Large,Family,0,3,0,4974,9867,3306,28287,3250,1,6007,462,59997,166799,E-commerce,158449,13,50000,Not_Eligible
+42,Male,Single,Graduate,15922,Private,35,Small,Own,0,5,1,18979,16820,2740,19424,11633,1,3298,593,271024,124309,Education,92376,22,500,Not_Eligible
+36,Female,Married,Professional,70801,Government,28,Medium,Own,0,1,3,14857,26270,2798,21729,1057,0,0,689,101921,167694,Home Appliances,298345,14,21739,Not_Eligible
+33,Male,Married,High School,49097,Private,5,Small,Own,0,1,0,2243,10814,7221,16638,7778,1,12058,698,427178,19240,Home Appliances,168241,17,500,Not_Eligible
+45,Male,Married,Graduate,121731,Government,4,Small,Rented,14952,2,0,2881,8845,2505,10875,6044,1,9964,833,145471,129043,Education,370563,24,37131,Eligible
+49,Female,Single,High School,132575,Private,15,Medium,Family,0,2,3,5141,1332,1341,17016,14353,2,24608,618,332091,197930,Education,222938,30,34119,High_Risk
+58,Female,Single,Graduate,181112,Government,37,Small,Rented,10097,3,2,1411,27239,2071,28949,7819,1,13796,487,94608,75439,E-commerce,118636,13,50000,Not_Eligible
+40,Female,Married,Graduate,85248,Government,1,Medium,Rented,34708,6,0,3652,3328,9868,2418,13880,2,25580,338,161388,195118,E-commerce,59063,5,500,Not_Eligible
+30,Female,Married,Graduate,58641,Private,7,Medium,Own,0,4,0,11435,6462,8792,7742,3728,0,0,679,85598,101332,Education,360728,20,18655,Not_Eligible
+54,Female,Married,High School,185992,Government,1,Small,Rented,13883,3,1,149,4179,9563,15985,7102,0,0,742,276218,93647,Education,325762,22,50000,Eligible
+47,Male,Married,Graduate,139503,Self-employed,16,Large,Rented,23211,2,2,5749,21226,3134,11503,12208,0,0,604,13886,60024,Vehicle,1292636,63,43082,High_Risk
+50,Female,Married,Graduate,156474,Government,40,Medium,Family,0,4,3,6283,10945,4701,19466,2404,2,13980,808,41495,21573,E-commerce,86750,10,50000,Eligible
+28,Female,Married,Graduate,97321,Private,28,Medium,Own,0,2,3,19418,21149,5162,12095,13916,0,0,474,250712,175272,E-commerce,152315,3,32678,Not_Eligible
+36,Female,Married,Graduate,97766,Private,20,Medium,Rented,15441,6,1,19484,18220,5477,20444,11594,0,0,329,272843,144148,Home Appliances,36127,8,17679,Not_Eligible
+52,Female,Married,Post Graduate,86974,Government,5,Large,Own,0,3,1,16910,452,754,4977,10153,2,19930,648,164859,80041,Personal Loan,378582,36,23635,High_Risk
+54,Male,Married,Graduate,153661,Private,14,Small,Own,0,4,3,6838,9228,6179,11300,3647,1,6085,366,215694,192294,E-commerce,65643,7,50000,Not_Eligible
+40,Female,Single,Graduate,53964,Government,21,Medium,Rented,49183,6,3,10546,122,868,21399,12271,1,12028,346,208243,36766,Personal Loan,347317,36,500,Not_Eligible
+53,Male,Married,Post Graduate,195450,Private,11,Medium,Rented,48306,2,0,10086,1965,3113,15196,12643,2,21484,686,378967,155740,Education,183833,30,38932,High_Risk
+55,Female,Single,Graduate,47546,Government,28,Small,Own,0,3,2,17204,14190,3277,21983,4389,2,24346,539,223226,90442,E-commerce,82620,23,500,Not_Eligible
+38,Male,Single,Graduate,100281,Private,40,Small,Own,0,4,2,14919,7944,6908,19817,8807,2,18500,633,423952,124841,Education,496552,34,18334,High_Risk
+57,Male,Married,Post Graduate,73203,Private,8,Large,Family,0,2,0,18132,2673,9017,11198,909,1,10054,711,108513,7448,Education,299660,7,19169,Not_Eligible
+35,Male,Married,Graduate,133867,Self-employed,10,Medium,Own,0,1,3,11022,12260,7137,13992,5911,1,5861,510,99808,122166,Home Appliances,194311,17,50000,Not_Eligible
+33,Female,Single,High School,140928,Self-employed,5,Medium,Rented,23747,2,1,18384,13557,4637,29012,2260,0,0,636,201863,135834,E-commerce,65088,20,37160,High_Risk
+49,Female,Married,Graduate,184953,Self-employed,29,Medium,Own,0,1,2,14872,29769,5488,28940,8346,1,4869,597,40768,195584,Home Appliances,31810,14,50000,Not_Eligible
+47,Male,Married,High School,161005,Self-employed,18,Large,Own,0,5,1,14777,19847,5368,2996,8233,2,9192,619,335527,69224,Home Appliances,236778,34,50000,High_Risk
+30,Male,Single,Graduate,61005,Private,11,Large,Rented,18126,1,2,13233,11790,1903,21753,7992,0,0,687,195278,14623,Home Appliances,164091,22,500,Not_Eligible
+54,Male,Single,Post Graduate,53231,Private,8,Medium,Own,0,2,3,6713,14199,9595,15747,10157,2,12742,509,183200,12334,Education,485178,9,500,Not_Eligible
+32,Male,Single,High School,179014,Private,2,Small,Rented,49085,6,1,12171,2675,9233,2035,13871,0,0,577,267075,29911,E-commerce,101382,8,48291,Not_Eligible
+53,Female,Married,Post Graduate,105256,Private,19,Small,Family,0,4,1,7132,11599,2780,19755,2951,0,0,625,41052,59888,Home Appliances,153504,34,41103,High_Risk
+25,Male,Married,Post Graduate,33045,Private,28,Medium,Family,0,5,3,12993,17434,1593,2651,3215,1,13042,377,188401,166163,Personal Loan,616301,60,4154,Not_Eligible
+53,Male,Single,Graduate,167620,Self-employed,9,Large,Own,0,5,3,5096,629,2068,10927,3231,0,0,416,486109,39037,E-commerce,105956,21,50000,Not_Eligible
+53,Male,Married,Post Graduate,134963,Private,0,Medium,Family,0,2,3,15984,27590,6477,21329,13923,2,18140,349,314281,29022,E-commerce,42244,10,33670,Not_Eligible
+53,Male,Single,Post Graduate,19730,Private,19,Small,Family,0,4,3,11427,15452,779,24755,1389,1,13668,409,286988,6374,Home Appliances,96689,29,500,Not_Eligible
+48,Female,Single,Professional,159825,Private,27,Small,Rented,24322,2,2,14204,23601,1479,13554,470,1,2561,541,252826,76659,Education,280878,15,50000,Not_Eligible
+41,Female,Married,Graduate,127365,Private,14,Medium,Own,0,4,3,4436,8268,6659,24646,2406,1,14124,816,234362,120697,Education,127769,22,37839,Eligible
+50,Male,Single,High School,128702,Private,10,Large,Own,0,5,3,15836,25087,1888,25506,11538,0,0,808,468313,56300,Education,119083,35,44820,Eligible
+34,Female,Single,Graduate,175014,Private,6,Small,Rented,8355,6,0,16052,11005,1153,14531,8694,2,19924,720,465178,99097,Education,431734,47,50000,Eligible
+53,Male,Married,Graduate,106674,Private,30,Medium,Own,0,6,2,2912,27847,695,6844,13795,2,14072,607,204695,48689,E-commerce,54783,12,34953,High_Risk
+45,Male,Married,High School,100334,Private,35,Medium,Rented,19243,1,0,7000,15665,7205,20458,3064,0,0,411,462365,160001,Vehicle,795492,48,21208,Not_Eligible
+41,Male,Married,Graduate,129209,Self-employed,31,Large,Family,0,2,2,13554,19096,3952,2387,5911,0,0,497,41247,5144,Vehicle,723556,28,50000,Not_Eligible
+43,Male,Married,High School,51589,Private,21,Small,Own,0,4,1,17471,6114,3202,27010,8331,0,0,722,159856,40138,E-commerce,31269,11,1909,Not_Eligible
+45,Male,Single,Post Graduate,43057,Private,29,Large,Own,0,2,1,14741,29848,6576,12866,1096,0,0,800,150967,113250,Education,91511,8,9735,Not_Eligible
+26,Female,Single,Graduate,171099,Private,16,Medium,Own,0,4,3,9434,5779,2120,23281,13778,1,4861,830,348631,168485,Personal Loan,547935,54,50000,Eligible
+30,Female,Married,High School,54880,Private,1,Medium,Rented,31281,6,2,5999,998,5455,22610,12070,2,22150,514,302947,80248,Education,293263,7,500,Not_Eligible
+33,Female,Single,High School,108304,Private,15,Small,Family,0,2,2,18200,13195,5097,15240,2156,1,14024,568,236305,13929,Home Appliances,255321,27,35088,Not_Eligible
+29,Male,Married,Graduate,64931,Self-employed,28,Medium,Rented,23299,6,3,17492,25046,6908,29209,12643,0,0,580,128012,110318,Personal Loan,337967,25,500,Not_Eligible
+40,Male,Married,Graduate,57634,Private,26,Medium,Rented,24862,6,0,17937,27636,6427,24297,6732,0,0,330,253435,54078,E-commerce,180918,13,500,Not_Eligible
+49,Male,Single,High School,125589,Private,40,Small,Own,0,6,2,6094,25711,6913,26743,5044,1,12884,364,134494,60901,E-commerce,36834,9,34221,Not_Eligible
+48,Male,Married,Graduate,163437,Private,40,Medium,Own,0,1,0,8728,16592,2524,4629,14193,0,0,324,248740,184451,Personal Loan,301206,31,50000,Not_Eligible
+41,Male,Single,High School,96752,Government,9,Medium,Own,0,2,0,4876,27501,1831,15554,7779,1,8614,706,169786,188293,E-commerce,75703,15,30536,Eligible
+55,Female,Married,Graduate,40664,Private,0,Medium,Rented,8137,1,0,19091,14761,5571,28655,3408,0,0,423,444311,51757,Home Appliances,110482,25,500,Not_Eligible
+45,Female,Married,Graduate,60228,Private,11,Small,Own,0,1,2,17342,14345,1044,24759,12142,0,0,685,373071,118270,Personal Loan,518047,58,7166,Not_Eligible
+27,Female,Married,Graduate,45446,Self-employed,35,Medium,Rented,11461,1,2,3465,5422,4816,14715,10736,1,7043,506,87635,108167,Vehicle,1255925,36,500,Not_Eligible
+52,Female,Married,Graduate,178320,Private,33,Small,Rented,7782,3,3,4940,23633,6441,3969,2880,0,0,737,470067,192242,Home Appliances,31804,24,50000,Eligible
+45,Female,Married,High School,74113,Private,4,Large,Own,0,1,1,11041,9483,8300,9902,10161,1,6630,363,329391,189243,Home Appliances,114726,33,17008,Not_Eligible
+47,Female,Married,High School,84175,Private,6,Large,Rented,21954,2,3,8310,5852,6706,18024,9435,0,0,479,175188,70001,Personal Loan,435390,26,7854,Not_Eligible
+45,Male,Married,Graduate,28141,Private,23,Small,Rented,10650,6,1,9198,11086,9950,19972,4130,0,0,412,265230,5084,Education,202711,43,500,Not_Eligible
+44,Female,Married,Post Graduate,97516,Self-employed,27,Small,Own,0,6,0,7358,18094,5789,27881,6459,1,7048,540,97744,457,Personal Loan,156903,58,21585,Not_Eligible
+28,Female,Single,Professional,184076,Private,40,Small,Own,0,6,0,13479,8100,4739,4600,12590,0,0,609,23412,929,Home Appliances,85365,32,50000,High_Risk
+45,Female,Married,Post Graduate,90795,Private,30,Medium,Rented,37386,1,0,17962,10759,2834,13099,2616,2,14768,392,210318,156253,Vehicle,852939,53,1353,Not_Eligible
+53,Female,Married,Graduate,135480,Private,8,Large,Own,0,4,1,18345,9903,6895,9618,10835,2,21986,667,391088,147980,E-commerce,48870,18,41335,High_Risk
+35,Male,Single,Graduate,48659,Private,1,Medium,Rented,47633,4,1,9105,17885,8203,28883,12472,1,11267,831,175920,165476,E-commerce,133228,13,500,Not_Eligible
+46,Female,Married,Graduate,41444,Government,25,Small,Family,0,1,3,16558,21422,3549,6651,14052,0,0,323,192125,27908,Home Appliances,148179,24,6232,Not_Eligible
+26,Male,Married,Post Graduate,150351,Private,22,Small,Rented,24216,6,0,13886,20267,1219,8179,4870,1,7189,347,495013,11740,Home Appliances,152102,36,50000,Not_Eligible
+37,Female,Single,Post Graduate,27161,Government,37,Small,Rented,5678,3,1,3938,4234,599,10339,3999,1,11500,824,493626,34082,Education,68628,16,500,Not_Eligible
+40,Female,Married,Post Graduate,97965,Private,23,Large,Own,0,6,3,15881,10412,6507,4957,14017,1,9304,657,231934,125074,Education,432937,40,30510,High_Risk
+60,Female,Single,Post Graduate,73590,Private,20,Medium,Rented,9162,1,0,7008,19455,6799,20017,6942,2,8206,806,22092,1798,E-commerce,76110,14,5422,Not_Eligible
+32,Male,Married,Graduate,18007,Private,12,Medium,Rented,34941,4,1,12558,6487,1644,16693,8534,2,25312,688,339642,132204,Home Appliances,27563,11,500,Not_Eligible
+34,Female,Married,Post Graduate,113273,Government,3,Small,Rented,40209,1,0,14413,2084,714,17614,7695,1,3798,695,357357,177781,E-commerce,189455,17,14411,High_Risk
+39,Female,Married,Post Graduate,193343,Private,35,Large,Own,0,6,2,18874,9650,6717,27403,7718,0,0,386,456894,29146,E-commerce,17334,20,50000,Not_Eligible
+60,Male,Married,Graduate,27792,Private,33,Small,Own,0,4,3,18967,20362,4279,14127,9368,0,0,582,474027,147772,Home Appliances,132996,23,500,Not_Eligible
+55,Male,Single,Post Graduate,165917,Government,6,Large,Own,0,1,0,16050,19919,4468,10716,6350,2,11030,501,314531,110505,Education,435584,42,50000,Not_Eligible
+26,Female,Married,High School,114748,Private,28,Large,Own,0,2,1,10120,3893,2993,12512,5881,1,3724,759,53564,188833,E-commerce,35926,11,46681,Eligible
+33,Female,Married,Professional,148859,Private,14,Medium,Own,0,3,1,8004,20306,7322,24405,6010,0,0,323,124689,48640,Personal Loan,308985,56,50000,Not_Eligible
+54,Female,Married,Post Graduate,32861,Private,17,Large,Family,0,1,3,8824,5833,7574,16796,9845,1,8329,310,358341,45379,Home Appliances,238603,26,500,Not_Eligible
+27,Female,Married,High School,175782,Self-employed,34,Small,Own,0,1,3,19017,22240,995,6737,12270,2,24570,606,303705,3290,Vehicle,163071,70,50000,High_Risk
+55,Male,Single,Graduate,17112,Private,34,Medium,Family,0,6,0,4100,16996,1346,21315,8327,1,12644,834,217990,141026,Education,302409,17,500,Not_Eligible
+35,Female,Married,High School,182760,Private,7,Small,Own,0,6,1,10492,3796,5773,22876,10163,0,0,848,200938,173383,Education,249222,25,50000,Eligible
+58,Male,Single,Post Graduate,136694,Private,12,Medium,Own,0,4,3,13591,10505,6230,8998,6196,2,21146,627,354773,3756,Education,183241,45,46749,High_Risk
+35,Female,Single,Post Graduate,77435,Private,33,Small,Rented,15248,6,0,451,24556,1876,17597,11606,0,0,536,211175,98339,Vehicle,1382848,15,10934,Not_Eligible
+40,Male,Married,Graduate,16313,Private,37,Small,Own,0,4,3,12698,12981,2002,17783,5907,2,27416,450,77390,144822,E-commerce,187821,11,500,Not_Eligible
+48,Female,Single,Post Graduate,128027,Private,3,Small,Rented,49706,1,0,5200,20645,6983,6900,6316,1,4066,845,489663,156340,Education,409925,39,19915,Eligible
+29,Male,Single,High School,31175,Private,34,Small,Own,0,5,2,5613,22448,4820,2255,828,0,0,400,174692,186060,Education,319501,37,11925,Not_Eligible
+45,Female,Single,Graduate,127630,Private,20,Medium,Rented,10201,1,3,12435,915,1639,22107,3921,0,0,369,139295,144579,Education,356617,42,44965,Not_Eligible
+43,Male,Married,Graduate,158032,Self-employed,24,Medium,Rented,17799,5,2,177,27945,6291,19232,11077,2,17456,580,34657,184110,Vehicle,681650,65,38199,Not_Eligible
+53,Male,Married,High School,64450,Private,3,Small,Family,0,3,3,3136,10068,1199,21985,1303,2,17548,516,234468,198742,Home Appliances,294186,35,6667,Not_Eligible
+60,Female,Single,Graduate,59163,Private,27,Large,Own,0,1,2,9099,23802,2691,12565,3359,0,0,573,493102,185501,E-commerce,38110,13,20100,Not_Eligible
+48,Male,Married,Graduate,56061,Self-employed,27,Large,Own,0,2,0,11681,14001,7275,16432,11650,1,7928,796,79933,87591,Home Appliances,162817,25,1094,Not_Eligible
+39,Female,Married,Graduate,56595,Self-employed,27,Small,Own,0,5,2,2182,17309,2612,29487,13098,2,28998,448,122350,81407,Home Appliances,201173,32,500,Not_Eligible
+39,Female,Single,Graduate,36072,Private,32,Medium,Own,0,6,2,7232,10818,1103,8313,6229,2,23380,783,89272,85510,Home Appliances,169012,27,500,Not_Eligible
+40,Female,Single,Post Graduate,61195,Private,38,Medium,Family,0,4,1,6151,25597,9620,20279,6103,2,29578,416,47025,190143,Education,454764,10,500,Not_Eligible
+54,Male,Married,Graduate,136973,Private,34,Medium,Own,0,1,0,10688,3522,2633,5704,7638,0,0,478,301742,56351,Personal Loan,660513,29,50000,Not_Eligible
+36,Male,Married,Post Graduate,70965,Private,30,Small,Own,0,6,2,6012,26884,5391,3839,11552,1,13183,302,149095,150468,Home Appliances,273659,23,15964,Not_Eligible
+31,Male,Married,Graduate,159470,Private,40,Medium,Own,0,5,2,37,6220,8335,28804,7040,2,12716,673,375508,125030,Personal Loan,622740,48,49476,High_Risk
+37,Female,Married,Graduate,166569,Private,27,Small,Own,0,3,3,10602,26495,9905,5635,2601,0,0,773,200322,12345,Personal Loan,279902,38,50000,Eligible
+25,Female,Single,Graduate,155777,Private,27,Small,Own,0,4,0,16969,736,8192,20363,6467,0,0,788,318230,97222,Vehicle,1177655,68,50000,Eligible
+28,Female,Single,Graduate,114813,Private,22,Medium,Family,0,6,2,11695,413,3727,16398,3819,2,6610,392,44696,38945,Education,152542,42,42907,Not_Eligible
+28,Female,Married,Graduate,73511,Private,31,Medium,Own,0,3,3,7238,2792,8615,24659,10259,2,29222,722,164642,145752,Education,123283,17,500,Not_Eligible
+52,Male,Single,Graduate,187031,Private,2,Large,Own,0,1,3,9647,16436,621,17305,2140,0,0,377,207022,89469,Vehicle,1296404,56,50000,Not_Eligible
+51,Male,Married,High School,52973,Private,20,Small,Own,0,1,3,2803,7989,3598,21515,9131,2,23738,646,29809,71302,Vehicle,849893,52,500,Not_Eligible
+50,Male,Married,Graduate,100934,Government,17,Small,Own,0,4,0,4732,17937,2394,27036,1948,1,9106,687,209642,13125,Home Appliances,291384,13,28184,High_Risk
+41,Male,Married,Graduate,98919,Self-employed,37,Small,Family,0,6,0,8758,24599,5516,25226,14581,1,4039,384,235132,26169,Personal Loan,334202,36,20841,Not_Eligible
+50,Male,Married,Graduate,152934,Private,2,Small,Own,0,5,2,11847,814,8971,22212,9601,1,14787,360,201920,152806,Education,430459,29,46743,Not_Eligible
+30,Male,Single,Post Graduate,116161,Private,26,Small,Own,0,4,1,9724,15799,7847,6549,2083,2,5154,340,252135,172487,Personal Loan,739615,52,49907,Not_Eligible
+57,Male,Single,Graduate,162910,Private,7,Medium,Own,0,2,0,19258,22179,9984,6743,14384,1,12326,690,398618,58226,Home Appliances,269784,20,50000,High_Risk
+43,Male,Single,Professional,185032,Private,36,Medium,Own,0,3,0,12748,12735,1801,15915,8603,1,3929,638,385326,165610,Vehicle,730235,17,50000,Not_Eligible
+58,Female,Married,Post Graduate,87266,Government,34,Medium,Rented,22415,1,0,459,27752,7646,20448,9100,2,24000,365,7050,110400,Personal Loan,126296,35,500,Not_Eligible
+30,Female,Single,Professional,176843,Private,9,Small,Own,0,3,1,10491,19865,7382,20680,948,1,6919,575,320145,70200,E-commerce,152328,21,50000,Not_Eligible
+42,Female,Single,Post Graduate,46391,Private,35,Small,Family,0,4,2,11656,1036,4836,24027,2816,2,8622,738,452041,90293,Vehicle,660064,53,500,Not_Eligible
+50,Male,Single,High School,184471,Private,20,Medium,Own,0,6,0,870,16245,1426,4895,12119,0,0,431,435630,138071,Personal Loan,821989,27,50000,Not_Eligible
+42,Male,Single,Graduate,47928,Private,39,Small,Rented,29127,6,0,7700,11519,1492,6856,7014,2,10948,633,161677,181822,Vehicle,305080,79,500,Not_Eligible
+41,Male,Married,High School,172299,Private,29,Large,Own,0,5,1,17431,3945,9176,6198,9245,2,27230,461,391492,98481,Personal Loan,568750,19,50000,Not_Eligible
+30,Male,Single,Post Graduate,87196,Private,1,Small,Own,0,1,3,7138,28513,3304,17150,14808,2,23544,443,400488,69322,Education,163394,20,7665,Not_Eligible
+38,Female,Married,Graduate,193448,Self-employed,8,Medium,Rented,39607,5,3,9130,6678,6555,19752,6426,1,10390,516,182939,152195,E-commerce,48213,12,50000,Not_Eligible
+33,Female,Single,Graduate,38901,Private,16,Large,Own,0,2,1,4423,2501,9483,5235,5713,1,9818,494,434572,105019,Vehicle,1234166,65,610,Not_Eligible
+35,Male,Married,Post Graduate,101117,Private,8,Medium,Own,0,4,0,1539,6675,5186,26324,12034,0,0,573,316111,78026,Personal Loan,921202,52,26144,Not_Eligible
+49,Male,Married,High School,181848,Private,5,Medium,Family,0,6,0,6364,24691,2494,10496,990,2,27242,413,375555,91955,Education,190092,8,50000,Not_Eligible
+47,Male,Single,Graduate,23782,Private,40,Medium,Rented,16857,6,3,15457,17999,5105,20492,6825,2,9666,515,373644,107128,Vehicle,295366,69,500,Not_Eligible
+46,Male,Married,Post Graduate,64028,Private,35,Small,Rented,32799,4,1,19664,24599,2680,23046,12822,0,0,642,390673,28044,Education,203138,36,500,Not_Eligible
+38,Female,Married,High School,30459,Private,17,Medium,Own,0,2,0,13203,13849,2223,3013,3417,0,0,513,478441,11563,Home Appliances,148177,33,10999,Not_Eligible
+59,Female,Married,Graduate,74435,Government,8,Large,Rented,17814,4,3,16618,3509,8205,26215,4560,2,11560,661,428710,132955,Vehicle,801547,77,500,Not_Eligible
+28,Female,Single,Post Graduate,87201,Private,7,Large,Own,0,5,2,12989,11627,3786,29173,7087,2,15330,363,211176,34982,Education,162840,39,10069,Not_Eligible
+37,Female,Single,High School,129495,Private,37,Medium,Own,0,4,1,13175,5993,7006,28842,1114,1,11480,375,281027,106326,Vehicle,824009,25,38607,Not_Eligible
+29,Female,Married,Graduate,62672,Private,13,Small,Rented,15572,3,1,8538,16699,7408,5906,1062,0,0,776,324141,156353,Home Appliances,85515,15,14132,Eligible
+37,Female,Single,Graduate,44356,Private,0,Medium,Own,0,3,0,1224,8083,5720,12994,3771,2,23468,554,428275,42996,Vehicle,299912,80,500,Not_Eligible
+59,Female,Married,Graduate,46439,Private,16,Medium,Family,0,4,3,8210,29104,5639,8511,13468,1,2250,635,196332,76313,Personal Loan,252085,41,5098,Not_Eligible
+38,Female,Married,High School,188605,Self-employed,18,Small,Own,0,1,3,17298,11316,2215,14622,3327,2,6508,707,156487,195660,Education,306920,29,50000,Eligible
+57,Male,Married,Post Graduate,191343,Private,25,Small,Own,0,6,0,10727,9426,5528,29300,10965,2,25768,380,368914,7021,Personal Loan,646074,56,50000,Not_Eligible
+42,Female,Married,Post Graduate,55960,Private,13,Small,Own,0,1,2,15240,29535,7640,23368,6391,1,14733,835,477085,151145,E-commerce,193900,22,500,Not_Eligible
+50,Female,Married,High School,51152,Private,37,Medium,Rented,16525,6,0,1011,15606,2355,23589,11405,0,0,533,455997,33527,E-commerce,97335,19,500,Not_Eligible
+41,Female,Single,Graduate,25026,Private,26,Small,Rented,42295,1,1,4025,5114,2704,13814,4953,2,27316,790,73978,181135,Education,133648,43,500,Not_Eligible
+34,Female,Single,Graduate,192486,Private,40,Small,Own,0,4,2,5979,14411,7059,28225,13118,2,9348,529,459613,82320,Vehicle,357623,20,50000,Not_Eligible
+52,Female,Married,Post Graduate,145638,Private,15,Small,Own,0,3,0,7187,7641,9828,27762,5562,2,29422,523,394594,1356,Home Appliances,252042,29,30755,Not_Eligible
+59,Female,Married,Graduate,155755,Private,26,Large,Rented,7803,4,2,19758,21500,4224,24586,11874,1,14911,630,78543,143583,Home Appliances,58745,35,42844,High_Risk
+34,Male,Single,High School,68756,Private,14,Small,Rented,40884,3,0,9238,17211,8369,24806,12472,2,19834,405,3273,29450,E-commerce,31207,4,500,Not_Eligible
+53,Female,Married,High School,133575,Government,28,Small,Family,0,6,2,13244,21909,2236,20249,6478,2,7326,635,102048,72697,E-commerce,191598,7,49399,High_Risk
+34,Female,Married,Professional,26064,Self-employed,30,Medium,Rented,21148,1,1,12889,28205,5912,4669,10004,0,0,841,464714,100466,Personal Loan,273045,50,500,Not_Eligible
+50,Female,Married,Graduate,140064,Government,13,Small,Own,0,6,0,8379,21872,9466,9967,1779,0,0,655,377465,149037,Personal Loan,626827,37,50000,High_Risk
+53,Male,Married,Post Graduate,122237,Self-employed,38,Large,Own,0,5,3,19327,10217,4695,23526,7446,0,0,338,287653,83787,Vehicle,1483032,18,43485,Not_Eligible
+41,Female,Single,Graduate,76323,Government,35,Large,Own,0,5,1,4447,6045,5315,11153,5600,2,19876,684,315505,171612,E-commerce,185888,8,13380,Not_Eligible
+51,Male,Single,Post Graduate,146437,Self-employed,36,Medium,Rented,49142,1,3,690,15881,1973,6827,14317,0,0,318,206661,96341,Personal Loan,641485,27,31423,Not_Eligible
+34,Male,Married,High School,134589,Government,8,Medium,Rented,30569,1,3,14904,13473,5516,28524,14012,1,6504,356,452554,68227,Education,181892,19,15782,Not_Eligible
+27,Female,Single,High School,96215,Government,29,Small,Own,0,3,0,13076,9391,6064,15674,11751,2,24322,456,78115,67417,Education,301565,43,13412,Not_Eligible
+28,Female,Married,Post Graduate,49538,Government,4,Small,Own,0,2,2,5206,24336,9824,26098,14237,1,2285,468,156900,160075,Home Appliances,51496,26,500,Not_Eligible
+41,Female,Married,Post Graduate,19359,Self-employed,4,Small,Rented,24795,5,1,17360,27281,2409,9956,14639,0,0,301,100296,132973,Personal Loan,867223,48,500,Not_Eligible
+57,Male,Single,Graduate,188476,Private,39,Small,Own,0,6,2,3247,11446,3981,12066,11518,1,1052,309,424011,25376,Home Appliances,294440,6,50000,Not_Eligible
+29,Female,Single,Graduate,67051,Private,6,Small,Own,0,3,2,5019,20427,6649,11612,8907,0,0,734,270026,150075,Education,213129,24,18530,Eligible
+41,Female,Single,Graduate,70832,Private,35,Medium,Rented,48107,5,1,3090,29528,9459,12451,3066,1,2108,550,341888,83057,Education,291028,19,500,Not_Eligible
+50,Female,Married,Graduate,140997,Self-employed,17,Small,Own,0,1,2,3725,356,2760,14252,12231,2,9866,410,459714,69766,Home Appliances,90893,32,50000,Not_Eligible
+32,Female,Married,High School,62209,Private,12,Small,Rented,31298,5,1,14585,10943,7102,10335,2916,1,8318,536,97728,19512,Vehicle,410294,81,500,Not_Eligible
+50,Male,Single,Post Graduate,84514,Government,3,Medium,Own,0,1,3,14070,22135,8854,24798,2778,2,8006,681,482214,199644,Home Appliances,30372,19,16222,High_Risk
+36,Female,Married,Graduate,146565,Government,27,Medium,Rented,35560,5,3,12856,14930,6515,11131,13197,0,0,704,63247,10505,Personal Loan,628920,59,35594,Eligible
+54,Male,Married,Post Graduate,125145,Self-employed,29,Small,Own,0,3,0,17216,23757,4555,14362,1716,2,25378,458,377145,199329,Home Appliances,234081,6,37873,Not_Eligible
+45,Female,Married,High School,136443,Private,19,Small,Own,0,3,2,1396,14236,2727,26099,2128,1,11886,392,351362,12905,Personal Loan,761139,27,46420,Not_Eligible
+44,Male,Married,High School,15864,Government,33,Small,Own,0,2,3,12409,1932,3236,14240,7665,0,0,828,412710,101067,Education,436952,39,500,Not_Eligible
+31,Male,Single,Graduate,98490,Government,13,Small,Own,0,3,0,2300,13010,991,2294,8762,1,13005,647,79230,20950,Education,136378,21,37618,High_Risk
+41,Female,Single,Graduate,102925,Self-employed,22,Large,Family,0,6,2,19114,12135,1944,2013,683,0,0,841,479953,98567,E-commerce,166009,23,50000,Eligible
+55,Female,Married,Graduate,132003,Self-employed,11,Large,Own,0,5,3,12677,25369,4659,14209,5674,1,3027,468,397165,167146,E-commerce,124689,7,50000,Not_Eligible
+25,Female,Single,High School,43019,Private,23,Medium,Family,0,3,0,15199,4420,1834,20159,3378,1,13694,361,55317,118010,Education,225313,40,500,Not_Eligible
+52,Female,Married,Post Graduate,44506,Private,5,Medium,Rented,22222,2,2,11422,4658,596,28400,4530,0,0,510,278548,108735,E-commerce,123692,7,500,Not_Eligible
+42,Female,Single,Post Graduate,156050,Private,19,Medium,Own,0,4,3,7673,4245,7081,5662,2713,2,11120,480,408636,23793,Vehicle,485567,26,50000,Not_Eligible
+50,Male,Single,Post Graduate,139566,Self-employed,22,Medium,Rented,36051,5,1,13720,17030,1174,17194,10161,1,3052,696,238434,189478,Education,261116,25,30814,High_Risk
+48,Male,Single,High School,165069,Private,22,Small,Own,0,2,0,16715,29867,1840,10090,7095,0,0,694,190453,75078,Vehicle,849324,80,50000,High_Risk
+40,Male,Married,Graduate,65063,Government,18,Small,Own,0,5,1,3560,18558,6156,14612,14394,1,5013,339,137764,107600,E-commerce,133787,15,8312,Not_Eligible
+36,Male,Single,Graduate,199557,Government,26,Medium,Family,0,6,1,17437,24489,9258,14394,124,2,18588,623,257968,179540,Education,214805,33,50000,High_Risk
+47,Male,Single,Graduate,65474,Private,20,Medium,Own,0,6,2,14532,25537,7383,10746,11665,2,8698,488,491923,125742,Personal Loan,957618,12,9721,Not_Eligible
+30,Female,Married,Graduate,135428,Private,11,Small,Own,0,4,1,1716,18018,808,2510,13646,1,13537,638,303758,146991,Home Appliances,117938,7,50000,High_Risk
+46,Female,Single,High School,45003,Private,8,Small,Rented,22962,2,1,18722,18276,2095,4069,7292,2,24032,515,361084,36896,Personal Loan,243534,15,500,Not_Eligible
+28,Female,Single,Graduate,184923,Self-employed,26,Small,Rented,33943,2,3,3604,7292,7534,16627,10491,0,0,596,389815,92016,Personal Loan,612696,52,50000,Not_Eligible
+48,Male,Single,Graduate,76490,Private,38,Small,Own,0,5,2,12021,28801,7459,8285,6611,1,5837,694,389032,108116,Vehicle,1415172,29,23100,Not_Eligible
+47,Female,Single,Graduate,163459,Private,30,Medium,Rented,18128,3,3,2592,23635,4215,11156,8926,0,0,461,200225,35146,Education,364734,20,50000,Not_Eligible
+28,Female,Single,High School,76281,Government,26,Medium,Rented,47999,1,2,3922,26165,9523,4532,13615,2,15876,409,384356,77060,Personal Loan,350009,41,500,Not_Eligible
+52,Female,Married,Graduate,161307,Private,37,Medium,Family,0,5,3,12860,29512,8941,3389,7953,2,28346,689,164023,166292,Home Appliances,210121,24,50000,High_Risk
+39,Male,Single,Graduate,99023,Self-employed,36,Small,Family,0,1,0,13591,10462,7560,5547,8672,0,0,822,292008,186287,Education,94893,23,40207,Eligible
+53,Male,Married,Graduate,26560,Private,20,Small,Own,0,6,3,13740,4312,7608,12563,14801,0,0,544,151226,164672,Education,178562,6,500,Not_Eligible
+26,Female,Married,Graduate,50227,Private,4,Large,Own,0,3,3,6861,25798,7955,6578,7450,2,25024,849,469850,186785,E-commerce,17721,12,500,Not_Eligible
+31,Male,Single,Graduate,141436,Private,26,Medium,Family,0,3,0,16405,14189,1910,8480,2597,1,3699,401,365076,199701,Home Appliances,48121,28,50000,Not_Eligible
+42,Male,Single,Post Graduate,50706,Private,25,Small,Rented,49900,1,1,985,28755,7157,10457,10243,0,0,751,291911,39699,Personal Loan,103449,23,500,Not_Eligible
+31,Male,Single,Graduate,65934,Private,11,Small,Own,0,2,1,17086,20835,9430,10157,10393,0,0,844,225753,171102,Education,493557,36,15937,Eligible
+36,Female,Married,Graduate,115222,Government,34,Large,Own,0,6,1,6047,7716,2635,2308,3557,1,3929,465,260023,124026,Personal Loan,579521,12,50000,Not_Eligible
+48,Female,Single,Professional,61814,Private,35,Medium,Family,0,4,3,12413,10644,639,5286,10931,0,0,381,389953,171778,Vehicle,142028,78,22816,Not_Eligible
+30,Male,Married,Graduate,38842,Private,13,Large,Family,0,6,2,18112,18306,3928,28604,956,0,0,665,136855,127635,Home Appliances,243825,35,500,Not_Eligible
+49,Male,Married,Post Graduate,130495,Private,19,Medium,Own,0,6,0,5109,11830,3061,20704,4800,0,0,779,414233,24989,E-commerce,163545,3,50000,Not_Eligible
+28,Female,Married,Post Graduate,142446,Private,8,Medium,Rented,43307,1,2,8223,8454,9518,5467,12827,0,0,345,140868,112507,Education,412505,25,29986,Not_Eligible
+31,Female,Married,High School,150614,Self-employed,7,Medium,Own,0,3,3,16567,6295,4736,9944,9263,2,12380,653,70808,152080,Vehicle,1063138,42,50000,High_Risk
+46,Female,Married,Graduate,189631,Private,10,Small,Rented,18707,6,1,17294,19487,6782,12728,9109,2,20790,780,368442,24866,Vehicle,1103832,73,50000,Eligible
+53,Male,Single,Graduate,38031,Self-employed,14,Medium,Family,0,3,3,4704,1055,9829,27359,9314,2,18738,317,354175,100903,Education,488533,29,500,Not_Eligible
+31,Female,Married,Professional,93957,Private,11,Medium,Rented,25274,4,2,10173,2809,7996,26627,2473,0,0,584,167384,130803,E-commerce,63012,16,8956,Not_Eligible
+35,Male,Single,Graduate,58289,Private,6,Small,Rented,24425,4,3,6666,1276,7616,23572,14420,0,0,342,324386,92856,Home Appliances,159961,12,500,Not_Eligible
+58,Female,Married,High School,181705,Private,18,Large,Own,0,5,3,10340,22026,9703,4984,4471,0,0,397,364356,159817,Education,376052,9,50000,Not_Eligible
+60,Male,Married,Graduate,114862,Private,25,Small,Own,0,6,0,7583,879,7044,15734,11797,1,3953,567,393917,25396,Home Appliances,132888,27,37353,Not_Eligible
+45,Male,Married,High School,33188,Government,13,Small,Family,0,6,3,104,12595,2698,15541,14849,0,0,480,476354,69045,Education,464475,32,500,Not_Eligible
+41,Male,Single,Post Graduate,143048,Private,21,Small,Rented,49302,4,0,18491,3639,7405,19851,3614,0,0,346,427179,190259,Education,490669,41,23986,Not_Eligible
+37,Male,Married,Graduate,22947,Private,11,Large,Family,0,4,3,12742,17619,3556,25654,9516,2,5960,741,219654,102910,E-commerce,54871,21,500,Not_Eligible
+47,Female,Married,Post Graduate,65722,Private,28,Large,Rented,6151,3,3,9233,1032,3644,10987,635,1,1440,411,115119,36198,Vehicle,557351,58,20804,Not_Eligible
+46,Male,Married,Post Graduate,148453,Private,26,Medium,Rented,18923,1,1,2156,775,6626,17595,9542,2,15636,779,48662,23265,Personal Loan,240779,38,35308,Eligible
+35,Male,Married,Graduate,108611,Self-employed,39,Large,Own,0,5,0,1425,12330,3497,9386,6615,0,0,397,286902,118633,Vehicle,1044848,78,47173,Not_Eligible
+25,Male,Single,Graduate,155789,Self-employed,2,Large,Rented,35455,1,1,9575,20863,731,7889,1082,2,16306,586,333273,186138,Home Appliances,284154,30,44217,Not_Eligible
+30,Female,Single,Post Graduate,120670,Private,34,Large,Own,0,5,1,12982,3288,9996,10773,10080,2,6516,700,345441,9832,E-commerce,116155,22,41419,High_Risk
+59,Female,Married,Post Graduate,170966,Government,13,Large,Rented,11118,3,2,5206,14880,5927,22595,14535,2,23654,564,4761,21907,E-commerce,30151,24,41260,Not_Eligible
+40,Female,Single,Post Graduate,119075,Government,2,Small,Rented,26971,5,0,14888,24310,6865,14259,1246,1,6344,529,350678,75045,E-commerce,48738,11,27702,Not_Eligible
+42,Female,Single,High School,25511,Private,28,Medium,Own,0,6,0,7848,18758,8183,21078,13392,2,21876,713,393502,41675,Home Appliances,274123,28,500,Not_Eligible
+41,Female,Single,Graduate,28183,Government,7,Medium,Rented,17129,4,1,221,22509,6528,21352,12653,1,3829,306,360878,24215,Home Appliances,257944,27,500,Not_Eligible
+53,Female,Single,Graduate,158728,Private,7,Medium,Own,0,4,3,10742,9470,6299,12141,8217,1,13769,755,262827,59695,Education,320486,13,50000,Eligible
+27,Male,Married,Post Graduate,22141,Government,40,Small,Own,0,3,1,3621,28261,8023,28742,13521,0,0,680,7586,128561,Vehicle,1494628,58,500,Not_Eligible
+27,Female,Married,Graduate,84660,Self-employed,9,Medium,Rented,12030,3,1,289,4374,3306,3296,4641,0,0,721,244866,165158,E-commerce,136961,12,31118,Eligible
+34,Female,Single,Graduate,17979,Private,22,Large,Own,0,1,0,2602,18159,8371,27114,10801,2,12562,531,322374,61278,E-commerce,190890,12,500,Not_Eligible
+42,Female,Married,High School,71117,Government,8,Small,Rented,23991,1,1,5691,13063,7379,2220,10471,0,0,511,284721,140131,E-commerce,46167,6,8982,Not_Eligible
+49,Male,Married,Graduate,125100,Self-employed,5,Large,Own,0,5,1,10297,952,2230,12706,8707,0,0,615,287292,164629,Home Appliances,215555,29,50000,High_Risk
+42,Female,Married,Post Graduate,47009,Private,0,Small,Rented,37080,6,1,19793,28320,1887,25111,12501,0,0,653,258204,1402,Personal Loan,245683,46,500,Not_Eligible
+40,Male,Married,Graduate,101228,Private,0,Small,Family,0,1,1,4366,21068,8857,21159,13145,1,2375,809,276011,170566,E-commerce,199542,14,24812,Eligible
+58,Male,Married,High School,199263,Self-employed,19,Small,Own,0,2,1,1148,6834,9001,11003,11792,2,13344,772,161888,36712,Vehicle,1458073,23,50000,Not_Eligible
+30,Female,Single,Post Graduate,28041,Self-employed,17,Medium,Own,0,4,2,3825,1570,9940,26797,8826,0,0,329,302481,137011,Vehicle,652146,52,500,Not_Eligible
+45,Male,Single,Post Graduate,26777,Private,1,Medium,Family,0,5,1,6388,20275,1458,5857,14656,0,0,383,140754,150030,E-commerce,78023,5,500,Not_Eligible
+44,Male,Married,High School,65181,Private,14,Small,Own,0,5,3,4105,16353,9009,20780,8333,2,5862,821,245739,169059,E-commerce,97067,10,5712,Not_Eligible
+42,Female,Married,Graduate,167997,Private,11,Medium,Family,0,5,2,6428,1495,8704,16519,9553,0,0,513,207649,80767,Home Appliances,77067,17,50000,Not_Eligible
+54,Male,Married,Professional,90072,Private,23,Small,Own,0,1,2,19382,29583,7792,7800,2832,1,3868,619,357102,131903,E-commerce,89426,22,34835,High_Risk
+34,Female,Married,Post Graduate,133307,Private,40,Medium,Family,0,2,2,7588,21543,5229,27784,4818,2,7080,331,447455,5242,Personal Loan,516943,32,43214,Not_Eligible
+59,Male,Married,Graduate,21266,Private,28,Large,Family,0,3,3,12694,13880,5331,23434,13571,1,6139,357,316635,89383,Education,225147,31,500,Not_Eligible
+36,Male,Single,Graduate,150990,Private,37,Medium,Family,0,1,1,13696,7153,4572,2237,7469,0,0,525,67685,192784,Personal Loan,311811,54,50000,Not_Eligible
+44,Female,Single,Graduate,27473,Private,7,Medium,Rented,20745,3,3,2602,8131,777,4431,7669,2,13186,695,333753,31706,Personal Loan,447807,32,500,Not_Eligible
+43,Female,Single,High School,146668,Private,8,Medium,Own,0,3,0,4955,13545,5256,3572,12245,0,0,725,162382,30246,Personal Loan,110680,55,50000,Eligible
+55,Male,Single,Post Graduate,42365,Private,30,Large,Family,0,6,0,8314,1714,2753,13631,4891,0,0,792,24748,140026,Education,262019,11,8831,Not_Eligible
+40,Female,Single,High School,173811,Government,12,Small,Own,0,2,3,9205,11032,2402,13677,3980,0,0,408,96150,102093,E-commerce,42569,11,50000,Not_Eligible
+35,Female,Married,High School,69784,Private,34,Small,Rented,18808,6,3,263,6523,1031,22272,133,1,6652,411,499685,90989,Education,401231,10,4851,Not_Eligible
+25,Male,Single,Post Graduate,49001,Private,19,Small,Family,0,5,0,12897,3385,4848,20927,3471,2,25352,598,213568,49663,Vehicle,251141,52,500,Not_Eligible
+38,Female,Single,Post Graduate,77290,Private,8,Medium,Rented,14441,5,2,6014,3777,954,2422,7681,1,9092,601,100860,34254,Vehicle,788591,81,19069,High_Risk
+54,Male,Married,Post Graduate,15152,Private,34,Medium,Own,0,5,2,6446,10367,8573,15331,10873,0,0,320,66749,147494,Personal Loan,764412,44,500,Not_Eligible
+25,Female,Married,Graduate,45547,Private,22,Medium,Own,0,6,0,12060,11478,8951,23974,4937,1,11494,546,325165,71552,Vehicle,556957,57,500,Not_Eligible
+57,Female,Single,Graduate,125728,Private,32,Small,Rented,38062,2,2,18976,10504,8109,27132,6666,0,0,794,380398,155345,Home Appliances,183624,14,14429,Eligible
+44,Female,Married,Graduate,70644,Private,18,Small,Own,0,3,2,17300,20699,3359,10180,3325,1,14287,390,176571,88668,E-commerce,80466,23,17754,Not_Eligible
+30,Female,Married,Graduate,80464,Private,5,Medium,Rented,49967,4,2,19594,15663,2049,3234,12249,0,0,751,51733,79444,E-commerce,112221,13,500,Not_Eligible
+35,Male,Married,Graduate,164338,Private,27,Large,Own,0,6,2,8270,5781,5294,6280,7873,2,8048,546,177334,46024,E-commerce,161364,8,50000,Not_Eligible
+44,Male,Married,Graduate,37900,Private,5,Small,Family,0,1,3,2393,29171,6898,11524,2155,2,17764,588,332631,131690,Home Appliances,81490,36,500,Not_Eligible
+36,Male,Single,Graduate,88240,Self-employed,27,Small,Own,0,3,0,4319,21903,695,14409,9144,2,23662,653,56995,56929,Personal Loan,813110,32,15877,Not_Eligible
+28,Female,Married,Post Graduate,49435,Government,17,Small,Own,0,2,2,6876,14100,8640,11838,5035,0,0,688,133855,181815,Home Appliances,284957,17,9824,Not_Eligible
+48,Female,Single,Professional,104327,Private,32,Medium,Rented,11425,2,1,6005,1475,4666,4535,12977,0,0,651,1002,81667,Vehicle,1038796,14,34901,Not_Eligible
+49,Male,Married,High School,76373,Private,35,Small,Family,0,5,3,4159,27433,8288,11523,4021,0,0,357,236095,162962,E-commerce,142546,6,26086,Not_Eligible
+29,Female,Married,Graduate,23552,Private,16,Small,Family,0,2,1,3017,22336,1240,10117,12971,2,26766,462,85270,93990,Vehicle,422743,71,500,Not_Eligible
+35,Female,Single,High School,27993,Private,36,Medium,Rented,43512,5,3,3735,13847,4543,15655,10468,2,11370,765,99994,82979,Education,142490,26,500,Not_Eligible
+33,Female,Single,Graduate,172682,Private,4,Small,Own,0,6,2,13166,4852,4854,4216,2030,0,0,322,56500,90639,Home Appliances,277779,35,50000,Not_Eligible
+48,Male,Married,Graduate,25528,Private,4,Small,Own,0,5,0,9820,3226,956,24136,11390,2,20340,694,365112,88295,Vehicle,710442,18,500,Not_Eligible
+51,Female,Married,High School,159802,Private,40,Small,Own,0,2,3,751,8696,7221,13676,10809,1,10289,586,244750,95796,Education,179116,32,50000,Not_Eligible
+51,Female,Single,Post Graduate,184465,Private,23,Large,Own,0,1,0,11277,6904,9347,10901,6840,0,0,366,474138,177376,Personal Loan,370129,47,50000,Not_Eligible
+58,Male,Married,Graduate,101175,Private,18,Medium,Own,0,3,1,16847,6279,5636,27383,2410,0,0,367,197519,140616,Home Appliances,297902,25,31857,Not_Eligible
+52,Male,Married,Post Graduate,72739,Government,6,Small,Own,0,4,1,8513,12225,4261,22846,7170,0,0,840,110872,6874,E-commerce,128717,14,16739,Eligible
+36,Male,Married,High School,158619,Government,11,Small,Rented,49632,5,2,6372,1397,6543,5831,9129,2,26880,317,102046,11644,Education,133922,30,20216,Not_Eligible
+28,Male,Married,High School,196713,Private,28,Medium,Own,0,3,1,5451,9761,3929,6101,1980,0,0,312,476577,4562,Personal Loan,935294,45,50000,Not_Eligible
+47,Female,Single,Graduate,37279,Private,33,Large,Family,0,2,2,7588,26131,3918,2059,5116,0,0,309,294861,138184,E-commerce,152929,21,13111,Not_Eligible
+57,Female,Married,High School,193408,Private,37,Small,Rented,25218,6,2,5572,25975,7716,17700,10528,2,13682,646,162637,41159,Vehicle,630220,36,50000,High_Risk
+60,Female,Single,Graduate,189592,Government,16,Small,Own,0,6,0,18485,252,6114,11932,8293,0,0,810,327083,77057,Education,486463,25,50000,Eligible
+33,Male,Married,Professional,41375,Private,18,Small,Rented,30683,4,0,19843,20360,3008,12502,14885,0,0,394,278924,165525,Education,380133,33,500,Not_Eligible
+33,Female,Single,Graduate,25126,Private,6,Medium,Family,0,5,1,6866,29733,4371,16263,3251,2,26218,738,57394,26358,E-commerce,33481,9,500,Not_Eligible
+26,Male,Married,High School,147261,Private,3,Large,Own,0,6,0,18474,17349,8430,17098,11669,2,12858,696,350795,30642,Vehicle,543216,25,47427,High_Risk
+30,Female,Single,Graduate,29368,Self-employed,17,Medium,Own,0,3,3,17072,11710,5523,2027,6382,1,3358,426,59593,15888,Education,400577,47,4343,Not_Eligible
+44,Male,Single,Graduate,126149,Private,23,Small,Rented,46928,1,1,1518,14737,1222,5017,3346,2,22194,338,99634,57056,Personal Loan,967948,21,15548,Not_Eligible
+44,Male,Married,Graduate,26979,Private,4,Medium,Own,0,4,1,9817,6397,8642,24097,14268,2,23254,568,356663,17922,Vehicle,718311,28,500,Not_Eligible
+38,Female,Married,Graduate,142770,Private,16,Medium,Family,0,3,2,13131,11918,7537,28697,9347,1,10176,344,222382,125814,Home Appliances,37501,25,40921,Not_Eligible
+36,Male,Married,Post Graduate,57865,Private,26,Small,Own,0,5,3,8443,28109,3035,25441,8031,2,24652,362,111083,147354,Personal Loan,866665,15,500,Not_Eligible
+54,Female,Married,High School,32795,Private,33,Small,Own,0,5,2,9138,18366,9675,27374,4424,0,0,556,33913,36848,Vehicle,991416,14,500,Not_Eligible
+41,Female,Married,Graduate,27323,Private,38,Small,Own,0,3,2,9883,12926,9543,14978,13222,0,0,749,296828,104865,Vehicle,1277165,16,500,Not_Eligible
+54,Female,Married,Graduate,49883,Private,13,Medium,Own,0,3,3,13776,3738,9960,25139,452,2,26892,847,348527,60623,Education,246021,11,500,Not_Eligible
+59,Female,Single,Post Graduate,115039,Private,16,Medium,Own,0,3,3,5875,27187,4089,26703,1727,0,0,645,101527,16056,Home Appliances,135403,19,41658,High_Risk
+36,Male,Married,Graduate,29178,Private,35,Medium,Own,0,4,0,11939,4876,9277,26998,2697,2,14776,452,208308,93383,Personal Loan,562911,52,500,Not_Eligible
+32,Female,Married,Graduate,163421,Government,28,Large,Rented,25875,4,0,4870,21648,8161,6182,9795,1,8883,480,172124,139456,E-commerce,199335,10,50000,Not_Eligible
+59,Male,Single,High School,126765,Private,11,Small,Own,0,4,1,17785,9093,8773,6107,1539,2,20746,637,445823,45622,Personal Loan,927119,32,44972,High_Risk
+47,Female,Single,High School,70001,Private,28,Small,Family,0,4,3,1693,8358,5697,13273,11958,1,7671,395,395452,157621,Vehicle,247998,55,12181,Not_Eligible
+35,Male,Married,High School,197520,Private,6,Small,Family,0,6,3,1339,5135,3149,16104,2939,0,0,585,136996,198483,Education,375242,18,50000,Not_Eligible
+47,Male,Married,Post Graduate,136830,Private,18,Large,Family,0,2,2,754,11252,2654,28828,10147,1,3314,723,256778,11259,Home Appliances,185113,19,45164,Eligible
+43,Female,Married,Graduate,139317,Private,12,Medium,Own,0,2,2,6992,20313,9684,10901,11934,2,19868,764,461801,32689,Education,115260,22,41346,Eligible
+57,Male,Married,Post Graduate,47180,Self-employed,40,Small,Rented,12365,5,0,12125,12499,5273,25283,13179,2,5462,332,172869,57881,Vehicle,687035,36,500,Not_Eligible
+34,Female,Married,High School,146491,Private,1,Small,Own,0,6,2,19710,743,9315,26847,4392,2,15296,459,70520,169988,Home Appliances,276239,18,42939,Not_Eligible
+60,Female,Married,Post Graduate,118451,Government,35,Medium,Family,0,4,0,9093,7920,5770,29027,1120,2,13452,440,149162,28422,E-commerce,128980,3,31774,Not_Eligible
+58,Female,Single,Post Graduate,197149,Government,11,Medium,Own,0,3,2,3645,4805,5577,7304,11356,2,23748,605,303483,94020,E-commerce,69530,22,50000,High_Risk
+31,Female,Married,High School,103429,Private,1,Medium,Own,0,3,0,7365,12052,1195,8772,6731,2,15344,402,496147,107478,Home Appliances,269890,36,35490,Not_Eligible
+30,Female,Single,High School,140432,Private,27,Small,Own,0,3,0,2546,27079,4320,8158,14233,1,1073,823,153904,25824,Vehicle,160755,74,50000,Eligible
+44,Male,Married,High School,78109,Private,27,Large,Own,0,1,3,9440,28883,5784,22586,2822,1,8084,805,29282,8400,Education,170437,6,16247,Not_Eligible
+26,Male,Married,Post Graduate,22433,Private,5,Medium,Family,0,4,3,14580,29927,1538,21228,8614,1,4020,483,90890,23697,Education,91617,38,500,Not_Eligible
+35,Male,Single,Graduate,38664,Private,1,Medium,Own,0,2,2,710,3380,2039,13398,1787,2,12640,524,206276,11241,Personal Loan,612296,40,747,Not_Eligible
+40,Female,Single,Graduate,175396,Private,4,Medium,Own,0,2,2,15549,14628,6111,4489,7281,1,5150,542,46968,100059,Vehicle,1332438,18,50000,Not_Eligible
+59,Male,Married,Graduate,151553,Private,16,Large,Rented,44683,4,0,4571,1367,2857,16583,15,2,6664,323,17489,187315,Personal Loan,128588,57,35308,Not_Eligible
+60,Male,Single,Post Graduate,82465,Private,5,Large,Own,0,6,2,13446,14861,7155,22507,11252,2,28472,789,327821,70704,Home Appliances,189745,30,500,Not_Eligible
+30,Male,Married,Graduate,144098,Government,28,Medium,Own,0,2,2,16310,17300,4874,15281,9073,0,0,729,412185,51343,Home Appliances,166947,10,50000,Eligible
+57,Male,Married,Graduate,15807,Private,3,Medium,Family,0,6,2,15524,23202,4338,9507,1456,2,16198,483,116584,46920,Vehicle,822162,82,500,Not_Eligible
+28,Male,Married,Professional,21878,Government,32,Small,Own,0,4,1,13398,10093,1615,18582,7492,2,25188,601,261309,196270,Education,102959,11,500,Not_Eligible
+51,Male,Single,High School,108838,Private,35,Large,Own,0,6,1,13875,1085,4357,20506,6423,1,6101,509,286407,191788,E-commerce,75859,13,34778,Not_Eligible
+55,Male,Married,Post Graduate,130618,Private,29,Medium,Own,0,3,3,3752,13625,5651,18556,10105,0,0,425,333804,129704,E-commerce,129470,6,49127,Not_Eligible
+57,Male,Single,High School,188348,Private,38,Small,Own,0,6,1,2715,12811,5947,26445,7482,0,0,467,489710,92676,E-commerce,187449,6,50000,Not_Eligible
+33,Male,Married,Graduate,155537,Private,38,Small,Own,0,4,3,7625,18726,3067,10790,6885,2,28510,359,442609,31962,Home Appliances,76023,36,50000,Not_Eligible
+57,Male,Single,Post Graduate,62606,Private,1,Large,Rented,24639,5,3,12165,2994,763,19069,12466,0,0,746,157981,185763,E-commerce,81565,15,500,Not_Eligible
+29,Female,Married,Graduate,165801,Self-employed,14,Large,Family,0,4,3,12363,18396,9381,25941,7786,1,1201,660,487846,271,E-commerce,92638,8,50000,High_Risk
+43,Male,Married,Graduate,105930,Private,31,Large,Own,0,3,2,15538,12028,9600,7955,12214,1,13150,812,17472,32800,E-commerce,106280,20,29277,Eligible
+41,Male,Single,Graduate,167816,Private,13,Medium,Own,0,4,0,6170,22171,9090,9884,13280,0,0,303,480923,135728,Home Appliances,23201,33,50000,Not_Eligible
+36,Male,Single,Graduate,47148,Private,30,Medium,Rented,21057,6,0,17311,29515,3254,3376,12724,2,28946,647,71411,36693,Personal Loan,225143,56,500,Not_Eligible
+25,Female,Single,Graduate,19851,Private,31,Large,Own,0,5,2,8983,6828,6225,12499,14334,1,2734,608,56991,21645,E-commerce,192823,23,500,Not_Eligible
+52,Female,Single,Graduate,25673,Private,40,Small,Own,0,1,1,4924,22609,1838,3249,10468,0,0,643,59661,119206,Home Appliances,202233,34,3488,Not_Eligible
+37,Female,Single,Graduate,198314,Private,13,Small,Family,0,5,0,14709,3830,9103,22899,8426,0,0,845,61007,5247,Education,436795,33,50000,Eligible
+48,Male,Married,Graduate,29900,Private,14,Large,Rented,23126,6,3,2548,29552,552,4486,7958,1,12784,514,231642,53975,E-commerce,179479,10,500,Not_Eligible
+39,Male,Married,Graduate,188781,Private,0,Small,Family,0,5,3,8106,14429,4971,21388,3067,0,0,377,320082,128547,Education,425605,45,50000,Not_Eligible
+38,Male,Married,Graduate,149497,Private,11,Medium,Own,0,3,1,15622,22382,8641,18235,12419,2,7572,306,372326,36987,Vehicle,981993,20,50000,Not_Eligible
+56,Female,Married,Graduate,42017,Self-employed,11,Medium,Rented,33848,3,2,15422,23326,7393,29662,10399,1,6197,571,7944,151866,Personal Loan,253405,20,500,Not_Eligible
+28,Female,Single,High School,174854,Private,18,Medium,Rented,19622,5,1,5131,18243,8701,11750,13100,1,4761,395,148222,18937,Home Appliances,169274,19,50000,Not_Eligible
+51,Female,Married,Post Graduate,41679,Private,17,Small,Rented,18622,4,1,3331,11532,5216,11654,10523,1,5265,377,66164,122654,Home Appliances,251657,14,500,Not_Eligible
+51,Female,Married,Graduate,41510,Self-employed,35,Medium,Family,0,3,2,638,22627,1405,8807,7207,0,0,381,72921,15254,Home Appliances,66360,25,11052,Not_Eligible
+38,Female,Married,High School,121472,Private,31,Small,Rented,30354,3,1,1787,14289,574,17044,4428,1,6774,452,373208,146358,E-commerce,36404,22,26602,Not_Eligible
+34,Female,Married,Graduate,68339,Private,29,Large,Own,0,3,3,16505,19773,1946,8140,14785,1,10186,363,320384,150634,Home Appliances,42726,21,13729,Not_Eligible
+25,Female,Married,Post Graduate,68802,Government,0,Small,Own,0,1,0,15672,18398,1046,5175,11004,0,0,567,104973,158965,Education,476920,29,26471,Not_Eligible
+58,Male,Single,Graduate,51080,Self-employed,19,Medium,Family,0,1,2,10120,13922,4755,28561,13123,1,3838,660,150590,56432,E-commerce,163581,12,500,Not_Eligible
+59,Male,Married,High School,127421,Government,29,Medium,Own,0,1,3,11402,3512,980,21017,8775,1,1615,459,462468,47260,Vehicle,1151886,63,48684,Not_Eligible
+33,Female,Married,High School,19968,Private,10,Small,Own,0,3,3,6532,8776,2264,5326,7657,0,0,375,287585,195684,Personal Loan,537951,16,509,Not_Eligible
+26,Male,Married,High School,60338,Self-employed,17,Small,Rented,36128,4,0,3841,28134,4484,19306,514,2,7084,615,119411,145898,E-commerce,194482,4,500,Not_Eligible
+29,Male,Single,Post Graduate,117385,Private,29,Medium,Family,0,3,0,228,15605,7491,10535,1039,1,3799,347,466894,36624,E-commerce,77824,17,49730,Not_Eligible
+27,Female,Married,Professional,105011,Self-employed,32,Small,Rented,7963,6,2,13438,19082,6905,7041,10602,0,0,706,99308,5836,Vehicle,1172182,51,36048,Eligible
+54,Male,Single,High School,144486,Government,35,Small,Rented,27172,2,3,706,7755,1051,15201,3367,1,4682,510,145673,70889,Home Appliances,132349,18,44881,Not_Eligible
+57,Female,Married,Post Graduate,55005,Self-employed,17,Medium,Family,0,3,3,2100,21174,9082,24054,1230,0,0,525,346382,133026,Education,489058,20,6746,Not_Eligible
+30,Female,Single,High School,134857,Private,16,Large,Rented,40819,2,3,15853,14600,5722,2012,11646,1,5295,437,256246,74982,E-commerce,172370,4,29674,Not_Eligible
+51,Male,Married,Graduate,155590,Private,15,Medium,Rented,18798,2,0,11657,6562,3814,11945,9308,0,0,455,34625,161550,E-commerce,135283,17,50000,Not_Eligible
+31,Female,Married,Post Graduate,86790,Private,27,Small,Own,0,4,2,9794,4384,4136,27787,1667,1,12844,380,403406,100031,Home Appliances,209193,19,16098,Not_Eligible
+38,Female,Single,Graduate,62510,Private,17,Large,Own,0,2,2,4368,11850,8560,13041,7498,0,0,607,114081,198259,Home Appliances,213421,19,14636,High_Risk
+46,Female,Single,High School,117677,Private,16,Medium,Rented,10880,2,2,2994,16962,4917,4774,7047,0,0,380,345859,174128,E-commerce,122794,22,46566,Not_Eligible
+50,Male,Married,Graduate,122089,Self-employed,6,Medium,Own,0,5,3,9330,8405,2835,14000,55,0,0,674,167188,94248,Personal Loan,688772,48,50000,High_Risk
+56,Female,Single,Professional,32408,Private,19,Medium,Own,0,5,0,7170,7358,4535,21109,9073,0,0,441,375739,166954,Home Appliances,291307,12,500,Not_Eligible
+26,Female,Married,Graduate,119546,Private,9,Small,Own,0,2,1,10682,8088,1150,29898,5950,1,6717,611,449058,89631,Vehicle,914895,59,36345,High_Risk
+32,Female,Married,High School,43546,Private,21,Small,Rented,36716,1,1,3306,8808,1955,19608,13176,0,0,595,386285,1991,Home Appliances,214677,10,500,Not_Eligible
+35,Male,Married,High School,120233,Private,36,Medium,Own,0,2,3,4629,22171,3488,3414,1735,0,0,649,460593,61605,E-commerce,154442,7,50000,High_Risk
+36,Male,Single,Graduate,187382,Private,31,Small,Family,0,4,0,2257,14971,2592,24654,12707,0,0,717,269958,81851,E-commerce,87717,18,50000,Eligible
+60,Female,Married,Graduate,114358,Private,19,Medium,Rented,9067,6,1,8490,14073,3818,23843,96,2,29950,608,32525,195290,E-commerce,59983,5,17298,High_Risk
+52,Male,Single,Post Graduate,155879,Government,40,Small,Rented,21843,1,0,5526,4875,1115,20239,11464,2,12916,769,268031,165588,Education,353914,18,39988,Eligible
+36,Male,Married,Post Graduate,72295,Government,40,Small,Rented,20669,1,0,4469,16337,6296,27103,11739,0,0,442,230621,29322,Home Appliances,251364,33,500,Not_Eligible
+59,Male,Single,Post Graduate,185707,Private,18,Small,Own,0,4,3,10990,28872,1595,23543,6115,0,0,714,359445,39,Home Appliances,117954,28,50000,Eligible
+42,Male,Single,Post Graduate,165361,Private,31,Medium,Rented,44555,6,3,9948,22366,2561,8502,4208,2,23938,488,124348,105758,Vehicle,398244,79,33967,Not_Eligible
+43,Male,Single,Graduate,184586,Private,14,Medium,Own,0,4,1,4200,13408,9790,13795,2133,2,7774,646,348824,106728,E-commerce,56693,22,50000,High_Risk
+40,Male,Married,Graduate,152196,Government,36,Small,Family,0,6,2,13981,9209,556,16208,5099,2,28954,571,220827,147077,Personal Loan,797224,27,49657,Not_Eligible
+30,Female,Single,Graduate,135138,Self-employed,15,Small,Rented,49200,4,2,6873,10568,3158,15684,10045,0,0,800,335029,51895,Vehicle,1250698,58,21016,Not_Eligible
+58,Male,Married,Graduate,112125,Private,10,Small,Own,0,1,3,6827,805,5252,19886,10873,1,1585,449,209884,162438,Personal Loan,686082,30,36472,Not_Eligible
+25,Male,Married,Post Graduate,186725,Government,5,Large,Rented,32293,3,1,9559,875,3417,21647,2719,0,0,586,191067,82554,E-commerce,54475,18,50000,Not_Eligible
+31,Male,Married,Graduate,171916,Private,34,Small,Rented,49908,5,3,2781,23291,3545,4910,167,1,11187,390,107132,66915,E-commerce,19924,10,47471,Not_Eligible
+33,Female,Married,Professional,92090,Private,12,Medium,Own,0,4,1,8401,25298,1707,17916,8420,0,0,648,414272,84061,Personal Loan,184448,12,31940,High_Risk
+35,Male,Married,Graduate,30845,Self-employed,33,Small,Own,0,2,2,11648,29057,4522,3086,8712,0,0,320,34337,188900,Home Appliances,22080,8,5849,Not_Eligible
+29,Female,Married,Graduate,15669,Private,3,Small,Family,0,2,1,2572,18775,7674,16323,14711,1,8285,526,118101,78351,E-commerce,188543,19,500,Not_Eligible
+25,Female,Single,Graduate,58194,Private,20,Medium,Own,0,4,2,11298,27876,6085,13821,11420,2,18788,305,213336,112116,Vehicle,1484858,18,500,Not_Eligible
+49,Female,Married,High School,26575,Private,17,Medium,Rented,6823,3,1,777,12492,9280,7755,8255,1,2118,480,77866,178390,Vehicle,1496321,55,500,Not_Eligible
+59,Female,Married,Graduate,54128,Private,17,Small,Own,0,4,3,12070,7622,7147,29743,8878,2,11802,566,458363,3656,Education,407419,42,500,Not_Eligible
+29,Male,Married,Graduate,35255,Private,6,Large,Rented,12814,3,2,709,7366,8003,9227,9683,2,14954,482,172581,107293,Education,167911,37,500,Not_Eligible
+35,Female,Married,High School,196495,Private,3,Small,Family,0,3,1,3501,7099,4601,3577,6776,2,23850,512,121200,141668,Vehicle,999567,42,50000,Not_Eligible
+43,Male,Married,Post Graduate,32640,Private,14,Small,Own,0,4,3,7003,22354,6320,12038,10164,0,0,381,126915,180750,E-commerce,103449,7,500,Not_Eligible
+58,Female,Married,High School,130975,Private,19,Small,Own,0,1,2,12293,298,5993,23208,2931,0,0,693,95839,12302,Personal Loan,225893,57,50000,High_Risk
+49,Female,Married,High School,80065,Self-employed,32,Medium,Own,0,3,1,14376,28365,8226,2259,12456,1,9597,738,331591,145349,Home Appliances,224859,23,22059,Eligible
+52,Female,Married,Post Graduate,47230,Private,18,Medium,Own,0,3,0,9379,23245,5260,15800,12926,2,27272,550,240639,160511,Education,362474,23,500,Not_Eligible
+45,Female,Single,High School,144735,Self-employed,10,Small,Own,0,5,3,2625,11424,4340,13686,6525,2,3522,330,115509,70224,Personal Loan,287492,58,50000,Not_Eligible
+40,Male,Single,Post Graduate,194553,Private,10,Large,Rented,47380,5,3,7750,21056,1165,26242,6850,2,29626,334,436655,149224,Home Appliances,297078,12,31065,Not_Eligible
+32,Female,Single,Post Graduate,161270,Private,25,Medium,Rented,34644,3,2,15740,4046,8666,2077,7463,0,0,671,328245,98713,Education,410877,25,50000,High_Risk
+56,Female,Single,High School,195420,Private,17,Large,Rented,49061,2,3,1806,12942,4638,2485,12261,1,9717,811,201452,131619,Vehicle,1085342,19,50000,Not_Eligible
+53,Female,Single,Graduate,124190,Government,36,Large,Own,0,2,2,14314,3275,8086,17820,2639,0,0,776,256611,77972,Home Appliances,154250,9,49564,Eligible
+25,Male,Married,Graduate,139611,Private,18,Large,Own,0,2,0,7715,3363,6942,7022,5123,0,0,523,328107,35437,E-commerce,164746,11,50000,Not_Eligible
+50,Female,Married,Post Graduate,42090,Self-employed,23,Medium,Rented,41687,2,0,78,190,516,21713,9220,0,0,574,76225,165715,Personal Loan,300533,46,500,Not_Eligible
+28,Male,Married,Post Graduate,172697,Private,2,Small,Own,0,5,0,13892,23875,6688,9787,10401,2,25852,389,404186,43289,Home Appliances,287308,16,50000,Not_Eligible
+51,Male,Married,Post Graduate,153362,Private,7,Medium,Own,0,1,0,534,22319,5134,17740,4436,0,0,338,129198,37519,E-commerce,146382,18,50000,Not_Eligible
+54,Male,Single,Graduate,61994,Private,34,Medium,Rented,45977,1,2,7393,26790,2778,3056,1757,1,12428,721,14794,177217,E-commerce,103085,20,500,Not_Eligible
+29,Female,Single,Graduate,80638,Private,14,Medium,Family,0,4,3,3900,29442,3014,21419,7614,2,10668,536,260863,187283,Personal Loan,171561,55,15256,Not_Eligible
+40,Male,Single,Graduate,128015,Private,17,Medium,Own,0,2,0,11680,28944,6561,16511,9578,2,15028,573,438213,121864,Education,231863,7,38313,Not_Eligible
+29,Male,Married,Professional,17403,Private,24,Small,Own,0,5,2,1122,29785,1319,2000,11499,1,11065,489,366553,116085,Home Appliances,297028,29,500,Not_Eligible
+45,Male,Single,Graduate,166314,Private,2,Large,Own,0,5,0,1821,475,6260,9443,44,1,3357,472,154231,72159,Home Appliances,248534,10,50000,Not_Eligible
+58,Female,Married,Graduate,66909,Private,20,Small,Own,0,5,1,10627,23526,8539,3664,263,1,9084,843,199126,122352,Personal Loan,763071,46,22384,Eligible
+27,Male,Married,Graduate,28870,Private,14,Large,Family,0,3,3,19879,21697,1325,3255,5797,2,16846,749,297976,121845,E-commerce,181520,11,500,Not_Eligible
+39,Female,Married,Post Graduate,76161,Private,6,Small,Own,0,3,3,792,4865,575,21557,8459,2,29536,680,116416,103360,E-commerce,186211,18,561,Not_Eligible
+60,Female,Single,Professional,169618,Private,17,Small,Own,0,3,3,9215,4104,1075,13981,53,1,1696,514,410037,131027,Personal Loan,291067,22,50000,Not_Eligible
+35,Female,Single,High School,65735,Private,18,Large,Family,0,2,1,16053,29332,7437,24482,2601,1,2325,697,147539,110899,Vehicle,1362692,59,11020,Not_Eligible
+29,Female,Single,Graduate,114750,Private,7,Large,Family,0,4,3,5815,26477,8554,9217,6284,1,1421,486,108341,175845,E-commerce,32483,5,46426,Not_Eligible
+42,Male,Single,Graduate,165196,Private,22,Medium,Family,0,6,3,9859,9834,9888,22096,4191,1,8670,584,47558,133535,Home Appliances,251727,11,50000,Not_Eligible
+43,Male,Single,Graduate,21236,Private,30,Large,Rented,12117,2,1,16774,2243,773,19224,10658,2,17422,379,346634,77042,E-commerce,51607,16,500,Not_Eligible
+48,Male,Married,Graduate,155587,Self-employed,10,Small,Rented,28570,1,1,14559,10008,5079,20565,520,0,0,690,12574,131007,Personal Loan,870265,28,48814,High_Risk
+36,Female,Married,High School,68408,Private,39,Large,Own,0,4,0,5864,159,957,25185,13326,2,8778,333,402735,46020,Personal Loan,682419,46,4536,Not_Eligible
+59,Female,Married,Graduate,143677,Private,25,Small,Own,0,3,3,15014,20620,4027,21807,2542,1,5307,698,486565,42829,Personal Loan,620349,45,50000,High_Risk
+43,Female,Married,Graduate,49797,Self-employed,31,Medium,Own,0,5,0,13516,11405,3425,22877,6610,0,0,632,55556,165367,E-commerce,53233,16,4847,High_Risk
+35,Male,Single,Graduate,40716,Private,2,Medium,Own,0,6,1,10135,1471,6256,22709,14800,0,0,336,48205,116488,Education,51590,37,500,Not_Eligible
+59,Male,Married,Graduate,160835,Private,31,Small,Rented,36752,6,1,8823,29392,9136,14516,9940,1,11535,578,467254,10748,Home Appliances,241851,30,32752,Not_Eligible
+58,Male,Married,Post Graduate,164450,Self-employed,13,Medium,Rented,9728,3,0,18508,24773,8145,22283,14978,0,0,422,62443,70925,Education,63254,45,50000,Not_Eligible
+42,Male,Married,Graduate,196546,Self-employed,29,Medium,Own,0,6,3,17486,27142,1104,25581,294,0,0,562,203813,196849,Education,245513,9,50000,Not_Eligible
+25,Male,Married,Post Graduate,140278,Government,32,Small,Rented,6210,1,2,19805,29919,2782,22664,10798,0,0,307,435482,127406,Vehicle,838937,53,48837,Not_Eligible
+46,Female,Single,Graduate,101188,Private,10,Large,Own,0,3,0,13508,425,3111,19015,1135,2,29968,697,69492,173720,Personal Loan,431953,48,19404,High_Risk
+44,Male,Single,Graduate,51045,Private,10,Medium,Own,0,2,0,7184,23252,2881,4072,9178,2,21390,580,331753,109567,Personal Loan,566538,22,2320,Not_Eligible
+30,Female,Single,Graduate,69615,Self-employed,2,Small,Own,0,6,0,2192,23626,3856,14225,4889,0,0,499,191307,8520,Personal Loan,639117,24,22905,Not_Eligible
+47,Male,Married,High School,134898,Self-employed,24,Medium,Own,0,4,3,2517,23451,6268,3771,11655,2,21606,782,218036,35936,E-commerce,32556,8,45232,Eligible
+55,Male,Married,Graduate,79029,Private,31,Small,Own,0,3,1,19024,7951,7526,4906,1865,1,2641,655,465532,18424,E-commerce,182056,15,32399,High_Risk
+28,Female,Single,Graduate,104450,Private,16,Small,Own,0,1,2,7265,11709,9429,12111,13449,2,7066,635,324512,146947,Education,192982,21,29053,High_Risk
+51,Female,Married,Post Graduate,46092,Private,6,Medium,Rented,48197,5,0,2208,27875,7178,14995,7211,0,0,381,159722,151325,Personal Loan,866894,44,500,Not_Eligible
+30,Male,Married,Graduate,96280,Private,12,Small,Own,0,4,0,4467,1977,3335,16773,7790,0,0,575,467493,91403,Personal Loan,785042,41,34388,Not_Eligible
+51,Male,Single,High School,59025,Private,16,Small,Own,0,6,2,417,19233,2249,27208,8567,0,0,686,290382,144887,Home Appliances,297818,26,6437,Not_Eligible
+40,Male,Single,Graduate,35742,Private,37,Medium,Rented,14993,3,0,10620,23780,4079,23354,529,2,12560,810,49688,110288,Vehicle,648408,30,500,Not_Eligible
+25,Female,Married,Graduate,39410,Private,5,Small,Own,0,1,2,11819,23942,8097,13841,4656,1,4971,632,196310,147964,Home Appliances,32963,29,500,Not_Eligible
+59,Male,Married,Post Graduate,110886,Private,14,Large,Family,0,3,3,7568,17915,9937,11372,10641,0,0,394,121855,134529,Vehicle,1404702,60,39731,Not_Eligible
+30,Female,Married,Post Graduate,82788,Private,26,Medium,Rented,34052,4,1,14883,23006,4227,21953,14413,2,17832,673,321219,91122,Personal Loan,512793,18,500,Not_Eligible
+46,Male,Single,Graduate,33487,Private,9,Small,Own,0,2,2,9609,27281,2174,9703,14770,2,5308,341,430151,130575,Personal Loan,661776,21,500,Not_Eligible
+31,Female,Married,Graduate,110145,Private,36,Medium,Family,0,1,3,19199,22976,547,26742,8036,1,4149,472,19553,63722,Home Appliances,194195,15,34049,Not_Eligible
+58,Male,Single,Graduate,45387,Private,37,Small,Family,0,5,3,15264,3479,1231,23881,3871,2,25422,805,390320,149786,Education,439646,46,500,Not_Eligible
+51,Female,Married,Graduate,17857,Self-employed,15,Medium,Own,0,4,0,1506,7336,6550,21111,7164,0,0,741,458157,182732,E-commerce,54506,10,500,Not_Eligible
+53,Female,Single,Post Graduate,39521,Private,30,Small,Own,0,3,0,5480,9153,6103,8981,6952,1,13717,797,497129,41350,Education,464912,6,500,Not_Eligible
+40,Male,Single,Post Graduate,97977,Private,30,Large,Family,0,4,3,15085,10293,6612,19409,5959,2,2192,494,330590,133408,Personal Loan,540804,18,30946,Not_Eligible
+41,Male,Married,Graduate,191510,Private,27,Small,Own,0,5,3,10750,10820,730,24984,5419,1,12518,676,156954,22078,Vehicle,694747,14,50000,Not_Eligible
+47,Female,Married,Graduate,59709,Private,7,Medium,Rented,28798,1,1,15065,6596,4651,4014,13025,0,0,685,72660,75500,Home Appliances,59333,18,500,Not_Eligible
+53,Male,Married,High School,67700,Private,2,Small,Rented,33169,3,2,6703,20499,2214,6959,5857,2,24648,435,472444,133836,Home Appliances,36815,30,500,Not_Eligible
+55,Male,Married,High School,59891,Private,14,Small,Own,0,2,2,762,3307,3697,16426,438,2,26682,819,206252,55482,Home Appliances,181840,19,500,Not_Eligible
+25,Male,Married,High School,80713,Private,5,Medium,Own,0,1,2,15700,23633,6411,12065,10821,2,12116,834,171844,47197,Education,262571,42,16210,Eligible
+48,Male,Married,Graduate,147706,Private,11,Medium,Rented,21854,1,3,15701,19759,3119,21869,9976,1,3710,360,366985,76777,E-commerce,170634,4,40345,Not_Eligible
+28,Male,Married,Post Graduate,74585,Private,26,Large,Own,0,3,1,12791,28831,6766,13230,5676,0,0,721,357547,22921,Personal Loan,700952,35,23797,Eligible
+35,Male,Married,Graduate,136650,Private,24,Small,Own,0,4,3,8087,196,3247,29907,9450,0,0,546,404678,125089,Education,402302,39,46701,Not_Eligible
+54,Male,Single,Graduate,181177,Private,8,Small,Own,0,4,0,170,8862,5349,10386,14117,2,18222,671,441372,26247,Vehicle,1085803,61,50000,High_Risk
+34,Male,Married,High School,190044,Private,0,Small,Family,0,5,0,14557,26950,4861,12086,13867,2,11284,605,438511,66632,Personal Loan,251342,53,50000,High_Risk
+53,Male,Single,Graduate,119149,Private,9,Small,Own,0,3,3,13201,14809,4145,2093,11845,0,0,422,85391,62560,Vehicle,1075157,31,50000,Not_Eligible
+41,Male,Married,Post Graduate,146949,Private,18,Large,Family,0,4,0,13353,16828,1697,8930,8750,1,12559,352,84805,193578,Vehicle,410472,48,50000,Not_Eligible
+33,Female,Single,Graduate,185045,Private,31,Large,Family,0,5,3,3403,868,5974,8594,414,1,14904,582,102819,198358,Personal Loan,375701,45,50000,Not_Eligible
+37,Male,Married,Post Graduate,160538,Private,14,Large,Rented,35139,4,1,14625,22863,9906,23358,7683,1,6631,761,313652,15861,Education,232910,13,31999,Eligible
+44,Male,Married,Post Graduate,70486,Private,11,Small,Own,0,6,1,14490,7589,6612,11454,12279,1,5066,753,290479,31452,Personal Loan,425324,51,14684,Eligible
+52,Male,Married,High School,39425,Self-employed,22,Medium,Rented,6349,2,0,17150,28894,7585,7697,12674,2,25364,451,428628,146437,Education,423810,19,500,Not_Eligible
+46,Female,Married,Graduate,36244,Self-employed,2,Medium,Family,0,5,3,11347,11220,8133,10781,11593,2,13568,774,421913,59707,Vehicle,1210096,18,500,Not_Eligible
+58,Male,Single,Professional,178180,Self-employed,9,Small,Rented,36548,5,1,14631,5658,863,17754,14798,0,0,496,406685,128820,Personal Loan,984810,49,50000,Not_Eligible
+56,Male,Married,Graduate,117900,Private,1,Medium,Own,0,4,0,8030,17814,8031,23996,7747,1,13640,609,39474,184147,Education,68380,36,28634,High_Risk
+52,Male,Married,High School,69824,Private,21,Small,Family,0,1,1,13934,14323,2803,29408,1645,2,29770,478,347802,32570,Home Appliances,158324,33,500,Not_Eligible
+46,Male,Married,Post Graduate,78924,Private,18,Small,Rented,44560,4,0,13882,14125,6816,3326,7452,0,0,588,425441,192662,Education,157988,44,689,Not_Eligible
+35,Male,Married,Post Graduate,67111,Private,23,Large,Family,0,6,3,15592,28496,9847,25548,4781,2,6424,591,491196,10497,Personal Loan,877086,25,4962,Not_Eligible
+39,Male,Married,Graduate,163353,Private,25,Small,Rented,13863,4,0,17132,10934,8996,12890,12533,1,3137,684,171560,45768,Vehicle,693917,58,50000,High_Risk
+29,Female,Married,Graduate,128296,Private,16,Large,Own,0,1,1,63,11931,4437,24631,11657,1,9381,559,388356,101514,Personal Loan,278227,60,36771,Not_Eligible
+38,Female,Married,Graduate,177694,Private,35,Small,Own,0,2,1,15575,18722,8462,3050,6372,0,0,591,203113,176091,E-commerce,46279,8,50000,Not_Eligible
+58,Male,Single,Post Graduate,70828,Private,37,Small,Own,0,4,0,15850,5112,6377,19531,5824,2,19448,658,80390,110777,Personal Loan,525661,35,3837,Not_Eligible
+40,Female,Married,Graduate,102426,Private,4,Small,Own,0,5,0,10908,24859,1765,28059,2392,1,11631,530,169930,27783,Vehicle,151276,78,26665,Not_Eligible
+29,Female,Married,High School,37521,Government,37,Small,Family,0,3,2,10393,6897,2779,3095,647,1,1079,588,125608,49784,Education,158060,10,15691,Not_Eligible
+48,Male,Married,Graduate,194702,Private,8,Medium,Own,0,6,1,14454,7250,9589,24126,4693,1,13038,347,455740,152308,Personal Loan,543247,57,50000,Not_Eligible
+59,Male,Single,Professional,109695,Self-employed,10,Small,Own,0,5,0,9106,321,9195,5201,3615,0,0,779,87818,112315,Vehicle,83215,47,48821,Eligible
+56,Male,Married,Post Graduate,117307,Private,21,Medium,Family,0,2,0,8278,10286,8972,29501,3978,2,5204,369,65397,2601,Vehicle,1373333,77,32333,Not_Eligible
+34,Female,Married,Graduate,91528,Private,1,Large,Own,0,2,3,16067,17481,4150,22843,14978,0,0,780,289881,100314,Vehicle,322579,57,21875,Eligible
+41,Male,Married,High School,65120,Private,14,Small,Rented,43404,6,2,15781,21148,3549,27485,10216,0,0,718,287137,81324,Education,426196,34,500,Not_Eligible
+44,Female,Married,Post Graduate,190455,Private,7,Small,Family,0,4,2,4139,26957,8157,27136,8271,2,29398,822,280554,116,Personal Loan,674356,49,50000,Eligible
+33,Male,Married,Post Graduate,105460,Private,19,Medium,Rented,32489,6,3,16581,23338,691,10843,2683,0,0,313,74054,49467,E-commerce,96117,4,26363,Not_Eligible
+34,Female,Single,Graduate,139833,Private,33,Medium,Own,0,6,0,6530,9630,9026,13646,12618,2,13680,419,249281,187068,Vehicle,988079,57,44027,Not_Eligible
+33,Female,Married,Graduate,21902,Private,37,Medium,Own,0,3,2,2746,24762,6238,21365,9672,1,10363,328,464298,140802,Home Appliances,258415,34,500,Not_Eligible
+60,Male,Single,Graduate,66047,Private,8,Small,Own,0,1,3,17569,5836,6511,6897,7722,2,23338,530,44903,14159,E-commerce,74172,24,5858,Not_Eligible
+51,Male,Single,Graduate,163741,Private,22,Medium,Rented,7198,6,0,4760,6280,4665,10583,6989,0,0,798,398966,3211,Education,54452,47,50000,Eligible
+55,Female,Married,High School,31249,Self-employed,19,Medium,Rented,19218,4,2,4059,10742,9804,4773,8289,2,12376,722,62892,69188,Education,111787,33,500,Not_Eligible
+54,Male,Married,High School,33765,Private,17,Small,Own,0,1,3,5400,16178,7621,26870,12595,0,0,687,116909,92980,Education,357447,33,500,Not_Eligible
+59,Male,Married,Graduate,164820,Private,25,Small,Rented,22739,4,2,9831,6094,1011,8940,10802,2,10444,767,449071,90694,Home Appliances,297462,23,50000,Eligible
+28,Female,Single,Post Graduate,72118,Private,40,Large,Own,0,1,0,3321,27001,5484,13501,7275,1,5851,302,148889,139346,Vehicle,266656,56,17908,Not_Eligible
+56,Male,Single,High School,65667,Private,16,Small,Own,0,2,2,3191,8108,8667,14670,10015,0,0,734,261207,34672,Personal Loan,326336,41,13427,Eligible
+27,Male,Married,Graduate,119584,Private,2,Small,Own,0,3,3,7851,11758,1226,12525,13947,1,5197,471,190758,9341,E-commerce,82321,3,43940,Not_Eligible
+42,Male,Single,Graduate,51060,Private,37,Small,Rented,20852,3,0,4358,18150,7501,23783,4893,0,0,680,307124,134535,E-commerce,131127,4,500,Not_Eligible
+46,Male,Single,Graduate,22950,Government,38,Medium,Own,0,4,2,3860,12896,2824,27594,13507,0,0,720,202709,179480,Vehicle,545601,57,500,Not_Eligible
+37,Female,Single,High School,15823,Private,13,Medium,Family,0,6,2,18244,12117,5312,18041,9102,2,22406,677,221914,33547,Personal Loan,887109,27,500,Not_Eligible
+30,Female,Married,Graduate,29673,Private,20,Small,Own,0,3,1,11911,29545,8884,25429,2779,1,7012,530,408672,72239,Vehicle,503816,34,500,Not_Eligible
+31,Male,Married,Graduate,44328,Private,35,Medium,Rented,27034,5,0,276,13076,5177,5103,14505,2,27840,636,277060,125331,Home Appliances,181036,11,500,Not_Eligible
+54,Male,Married,Graduate,143782,Self-employed,20,Medium,Rented,42200,6,0,2032,3391,858,29060,10293,2,15266,558,282267,33053,Vehicle,828526,70,12144,Not_Eligible
+36,Female,Married,Post Graduate,70121,Government,19,Small,Own,0,5,3,16279,21908,697,5245,5789,1,7538,646,402789,171991,Education,86324,47,25779,High_Risk
+36,Male,Single,High School,28278,Self-employed,37,Large,Family,0,2,3,5398,21168,7499,3861,3219,1,1969,552,213975,45093,Home Appliances,168908,25,4252,Not_Eligible
+58,Male,Single,Post Graduate,17668,Private,33,Small,Own,0,5,1,3048,6568,9344,2622,13737,0,0,517,411788,106519,Vehicle,956590,81,500,Not_Eligible
+30,Male,Married,Post Graduate,103260,Private,20,Small,Rented,6008,2,3,13311,25506,3273,8813,12350,0,0,411,359723,67781,Home Appliances,206105,33,36514,Not_Eligible
+57,Male,Single,Post Graduate,170424,Private,6,Large,Own,0,3,3,16761,11758,9387,25441,667,2,6602,513,441867,133483,Home Appliances,100070,12,50000,Not_Eligible
+58,Female,Single,Graduate,77659,Self-employed,17,Large,Rented,30309,4,2,7971,4523,4800,10424,9536,0,0,697,228932,39675,Personal Loan,661411,19,4940,Not_Eligible
+46,Male,Single,Graduate,26812,Private,27,Small,Rented,11917,2,2,14858,5173,1057,24146,1719,1,8274,779,279332,19645,Home Appliances,51125,12,500,Not_Eligible
+30,Male,Single,Graduate,57194,Private,11,Large,Family,0,1,3,8429,21434,5545,13882,4412,0,0,356,64120,102116,Personal Loan,307406,16,15341,Not_Eligible
+30,Female,Married,Graduate,107383,Private,22,Medium,Own,0,6,2,2176,6481,9751,4910,8520,2,14370,400,55671,173045,E-commerce,148455,15,33848,Not_Eligible
+35,Male,Married,High School,49924,Private,27,Small,Rented,19417,5,3,15959,14092,2876,15248,3737,1,9262,579,53744,126586,Personal Loan,240315,25,500,Not_Eligible
+45,Female,Single,Professional,196019,Private,3,Large,Own,0,1,3,18379,22023,9626,8506,7687,1,1141,687,316503,151120,E-commerce,186664,23,50000,High_Risk
+30,Male,Married,Graduate,156231,Private,23,Medium,Rented,33301,3,0,19691,25587,6694,10161,6444,2,23128,393,162978,86686,Home Appliances,54485,25,31679,Not_Eligible
+41,Male,Married,Post Graduate,78747,Private,30,Small,Rented,21400,2,2,2001,14689,4263,16483,8723,0,0,479,144457,28024,Education,195388,21,8490,Not_Eligible
+29,Male,Married,Graduate,191036,Government,8,Medium,Own,0,6,2,11301,27224,7088,24133,12011,0,0,325,301435,85406,Home Appliances,187942,36,50000,Not_Eligible
+44,Female,Married,High School,75129,Private,22,Small,Own,0,6,3,12469,9078,4307,18431,2327,1,9659,328,199194,197500,Personal Loan,603650,58,17765,Not_Eligible
+25,Female,Married,Graduate,40933,Government,29,Small,Own,0,5,1,1581,26175,1308,8251,11943,0,0,378,67420,156340,Home Appliances,249701,30,7871,Not_Eligible
+50,Male,Married,Graduate,188583,Private,1,Large,Family,0,3,3,19033,7509,8773,22090,3335,0,0,701,278723,140707,Education,405640,40,50000,Eligible
+26,Male,Single,Graduate,192541,Government,26,Medium,Rented,43701,1,1,2058,1931,4052,21503,500,0,0,779,275067,60203,Education,164886,48,50000,Eligible
+32,Male,Single,Graduate,72841,Private,10,Medium,Family,0,2,1,5374,21760,5875,8638,6696,2,7660,574,69843,119932,Education,463246,31,20582,Not_Eligible
+31,Female,Single,Graduate,125031,Self-employed,16,Medium,Own,0,1,0,19370,22706,7572,25850,4534,0,0,397,134805,124554,Home Appliances,219126,33,43448,Not_Eligible
+54,Male,Married,Graduate,47059,Private,26,Medium,Rented,20529,5,1,11122,27790,1287,25610,2768,0,0,807,118634,130840,Home Appliances,62736,8,500,Not_Eligible
+26,Female,Single,Graduate,133707,Private,0,Small,Family,0,1,3,13585,27646,7356,18904,6343,2,11564,453,347707,178585,Personal Loan,995895,39,43959,Not_Eligible
+40,Female,Single,Professional,142672,Private,0,Large,Rented,45461,5,2,9874,3067,3970,10292,13033,0,0,385,124566,136315,Education,374940,27,28967,Not_Eligible
+46,Female,Married,High School,146337,Private,18,Medium,Own,0,6,2,15050,18641,5674,11916,8784,0,0,376,14131,44303,Vehicle,814646,14,50000,Not_Eligible
+43,Male,Single,Graduate,120216,Private,38,Medium,Own,0,2,3,1629,21133,4843,14304,10918,1,7824,494,133379,44314,Personal Loan,324952,16,40798,Not_Eligible
+49,Male,Single,Graduate,145262,Government,0,Medium,Rented,36944,5,1,13515,18026,7888,7261,2243,0,0,705,234512,123980,Education,244535,6,43311,Eligible
+53,Male,Single,Graduate,117684,Self-employed,32,Small,Family,0,6,2,1332,560,2281,10566,1137,2,17924,518,384700,173241,Personal Loan,812452,26,43567,Not_Eligible
+39,Female,Married,Graduate,166665,Private,3,Small,Rented,39058,3,1,3592,1350,1522,5761,5029,1,1356,545,26132,189595,Home Appliances,227524,7,50000,Not_Eligible
+54,Female,Single,Graduate,48223,Private,20,Small,Family,0,3,3,10125,20117,4404,6327,11617,2,26774,487,440610,121932,Home Appliances,29327,19,500,Not_Eligible
+36,Female,Single,Professional,104442,Private,17,Small,Rented,22659,2,1,8967,25681,1623,22837,13284,0,0,819,165254,105959,Vehicle,1199022,71,16205,Not_Eligible
+60,Male,Single,Graduate,92033,Government,19,Medium,Rented,21045,3,3,3051,5376,2806,5594,1526,1,10784,676,171314,163204,Vehicle,853386,56,22309,High_Risk
+43,Male,Married,Graduate,113671,Government,3,Large,Own,0,6,2,15962,1392,6746,15136,7148,0,0,666,7787,195380,Education,359940,34,43334,High_Risk
+51,Female,Married,High School,41285,Private,30,Small,Family,0,4,3,6037,12120,8279,14019,5948,0,0,541,138174,5574,Home Appliances,227534,6,3347,Not_Eligible
+56,Female,Married,Graduate,74908,Self-employed,11,Small,Rented,32547,2,3,17328,9405,7087,3296,11162,1,6063,592,234549,62009,E-commerce,91484,21,500,Not_Eligible
+53,Female,Married,Graduate,191516,Private,31,Medium,Family,0,4,3,299,29488,3518,25277,3082,2,2732,787,313049,66771,Home Appliances,143138,10,50000,Eligible
+55,Female,Married,High School,34472,Government,26,Small,Rented,38290,5,1,4746,27776,8238,29548,7272,0,0,661,383508,112859,Vehicle,1024701,34,500,Not_Eligible
+44,Male,Married,Graduate,132532,Self-employed,22,Large,Own,0,1,2,5937,16743,4358,19876,12748,2,23448,748,261359,58977,Home Appliances,163179,22,31916,Eligible
+26,Male,Married,Graduate,137959,Government,12,Small,Own,0,5,1,11919,28493,2220,20797,6975,0,0,322,50110,62207,Home Appliances,214978,34,50000,Not_Eligible
+42,Male,Married,Post Graduate,102785,Private,26,Small,Rented,7251,2,0,8021,6864,7685,8515,11719,0,0,773,195714,4881,Home Appliances,214214,36,32940,Eligible
+31,Female,Married,Graduate,21217,Private,40,Small,Family,0,2,2,3142,29758,5409,25637,9329,1,8421,823,367612,743,Education,58531,39,500,Not_Eligible
+57,Female,Married,Graduate,21355,Private,37,Large,Own,0,3,1,11421,13410,4020,23959,8961,1,14393,668,319774,89997,Vehicle,672293,65,500,Not_Eligible
+33,Male,Married,Graduate,65992,Government,37,Small,Own,0,4,1,19166,14292,6778,14269,3890,1,9089,826,292098,199462,Personal Loan,130971,37,13137,Eligible
+33,Female,Single,High School,33965,Private,9,Medium,Own,0,6,0,2673,1516,7385,21763,14888,2,2300,612,254177,59127,Vehicle,122513,60,500,Not_Eligible
+33,Female,Single,High School,32432,Private,23,Small,Own,0,2,2,5044,5323,2625,28753,3747,0,0,452,252303,48012,E-commerce,51144,6,500,Not_Eligible
+48,Female,Married,Graduate,44622,Self-employed,16,Small,Own,0,2,2,9570,5832,1614,18880,13965,2,13978,634,496515,52887,Home Appliances,42134,14,500,Not_Eligible
+45,Female,Married,Professional,50284,Private,39,Large,Family,0,3,0,14533,14638,5411,7586,14841,2,19884,646,299742,194621,Education,481897,48,500,Not_Eligible
+59,Male,Married,High School,170118,Private,38,Small,Own,0,6,2,2732,5694,989,11252,7671,2,11810,379,298550,132770,Vehicle,194126,83,50000,Not_Eligible
+39,Male,Married,Graduate,133165,Private,35,Small,Own,0,6,0,4622,3069,6565,7183,13035,0,0,411,167948,130607,Personal Loan,608208,27,50000,Not_Eligible
+35,Female,Married,Post Graduate,20625,Private,6,Medium,Own,0,3,0,4704,18153,4678,11283,10727,1,1256,460,245018,37874,Personal Loan,945214,23,500,Not_Eligible
+26,Female,Married,Post Graduate,131268,Private,13,Large,Own,0,5,1,12321,26176,2537,26930,11067,2,19692,601,355170,180787,Vehicle,338005,28,31351,High_Risk
+25,Male,Single,Graduate,40291,Private,29,Small,Own,0,6,1,1648,2098,6187,7312,1027,2,19786,381,429012,39342,Vehicle,286950,47,500,Not_Eligible
+38,Male,Single,Graduate,92895,Private,30,Small,Own,0,6,3,13185,16816,4068,26968,2057,2,11026,724,389833,193441,Home Appliances,59360,12,21137,Eligible
+58,Female,Married,Graduate,22038,Private,14,Large,Own,0,5,0,8509,28809,4190,9984,1044,2,4304,360,331169,190491,Home Appliances,123981,26,500,Not_Eligible
+43,Female,Married,Post Graduate,31681,Private,5,Medium,Own,0,4,1,6568,12135,2555,15973,453,1,11820,817,389112,113566,E-commerce,173028,4,500,Not_Eligible
+57,Male,Married,High School,39530,Private,5,Large,Family,0,6,2,17243,5489,6923,16794,12540,0,0,672,16469,173636,Home Appliances,196595,9,500,Not_Eligible
+28,Female,Married,Post Graduate,95174,Private,28,Medium,Family,0,2,0,16377,2386,9078,5522,2631,0,0,486,134730,199939,Personal Loan,991200,25,41235,Not_Eligible
+28,Male,Married,High School,100670,Private,18,Medium,Family,0,3,3,16059,28090,6378,7152,95,0,0,505,121536,116072,Education,435581,39,46837,Not_Eligible
+55,Male,Single,Post Graduate,80258,Private,20,Small,Own,0,5,2,17708,12157,2749,10546,14066,2,22054,682,326954,153466,Vehicle,540586,35,10353,Not_Eligible
+28,Female,Married,High School,129731,Government,33,Small,Own,0,1,3,4678,3154,8418,3679,4181,0,0,348,376674,118131,Personal Loan,351240,35,50000,Not_Eligible
+26,Male,Single,High School,148285,Private,0,Medium,Rented,17019,4,3,17102,25986,1648,23117,12245,1,9757,694,74048,104763,Education,248919,34,38389,High_Risk
+39,Female,Married,High School,149816,Private,30,Medium,Own,0,6,0,3520,24061,3253,17295,14408,2,28892,604,96462,66938,Personal Loan,491099,50,39203,High_Risk
+58,Male,Married,Graduate,122120,Self-employed,11,Large,Rented,42302,2,1,6616,21102,834,25688,7846,0,0,421,247710,130989,Home Appliances,150607,15,14718,Not_Eligible
+49,Female,Single,Graduate,115928,Private,38,Medium,Rented,40852,5,2,11110,2530,8560,26168,13901,1,12871,794,484154,53455,Home Appliances,111479,28,500,Not_Eligible
+28,Male,Married,High School,105940,Private,39,Small,Family,0,3,0,14887,2473,927,11734,14532,1,3463,646,1314,38854,Personal Loan,183552,26,37867,High_Risk
+55,Female,Single,Graduate,59018,Private,20,Medium,Family,0,6,1,11553,6566,5689,24880,2164,2,3578,390,439730,55090,Home Appliances,107274,25,7632,Not_Eligible
+55,Male,Single,Graduate,105092,Private,12,Medium,Own,0,4,2,11190,4797,2320,3714,2198,1,10369,661,96793,2206,Home Appliances,56141,19,45830,High_Risk
+53,Female,Single,Post Graduate,16868,Private,9,Medium,Rented,33240,1,3,7529,15956,2516,14031,5549,1,14653,526,134258,186771,Vehicle,1037980,79,500,Not_Eligible
+57,Male,Single,Post Graduate,193765,Government,7,Medium,Own,0,5,1,11853,11769,6278,20641,8387,2,22636,721,315867,51358,Personal Loan,465757,60,50000,Eligible
+33,Male,Married,Graduate,83467,Government,40,Medium,Own,0,1,3,9502,22960,8136,15054,11791,2,11610,571,364388,159988,Home Appliances,190154,29,14127,Not_Eligible
+60,Male,Married,High School,154915,Private,7,Small,Family,0,2,2,9548,3041,667,22706,2748,2,15704,850,437181,86994,E-commerce,56152,23,50000,Eligible
+36,Female,Married,Graduate,191991,Private,18,Medium,Family,0,6,0,11715,21839,2007,26041,2901,2,5142,810,2748,67886,Personal Loan,296211,18,50000,Eligible
+53,Male,Married,Post Graduate,106941,Private,19,Medium,Own,0,6,1,12005,28022,3224,13872,4596,2,11530,322,24514,45610,Home Appliances,42127,26,36631,Not_Eligible
+45,Female,Single,High School,174438,Private,27,Large,Rented,32852,1,3,6599,3917,9464,9685,4071,2,21122,526,239116,164143,Personal Loan,646916,21,43649,Not_Eligible
+53,Female,Single,Graduate,103656,Private,34,Medium,Rented,45854,3,0,2713,19569,1052,18327,14102,2,6662,411,279276,102807,E-commerce,176949,9,500,Not_Eligible
+47,Female,Married,Post Graduate,39473,Private,22,Medium,Rented,22957,1,0,5991,15270,2195,26318,5940,0,0,548,130424,89943,Home Appliances,190756,22,500,Not_Eligible
+48,Female,Single,Professional,19898,Self-employed,31,Medium,Own,0,2,1,8177,2844,4335,29647,13025,1,5059,379,318388,131589,Personal Loan,612713,48,500,Not_Eligible
+47,Male,Married,Graduate,40090,Private,23,Medium,Rented,14453,6,3,3218,8785,3593,24836,838,0,0,595,132623,160525,E-commerce,186202,18,500,Not_Eligible
+53,Female,Single,Graduate,189365,Private,17,Small,Rented,25534,2,2,3553,23642,961,8860,1527,1,11694,385,466196,131159,Home Appliances,274011,32,50000,Not_Eligible
+51,Female,Married,Graduate,102895,Private,6,Large,Rented,38808,4,0,19020,26071,5632,7748,12055,1,13389,643,88714,93570,Personal Loan,390982,39,3278,Not_Eligible
+29,Male,Married,Post Graduate,74047,Private,8,Large,Rented,34686,5,1,5602,11052,6272,18043,3743,2,13464,550,327572,178753,Personal Loan,238180,57,500,Not_Eligible
+54,Male,Single,High School,97521,Self-employed,17,Medium,Own,0,6,3,14780,3195,2181,13261,1239,1,12581,847,265160,179131,Home Appliances,290761,33,34128,Eligible
+44,Female,Single,High School,62348,Private,1,Medium,Rented,44557,3,0,2556,7346,7040,19107,8918,2,21676,784,51516,193264,E-commerce,151089,21,500,Not_Eligible
+36,Male,Married,Graduate,176053,Government,12,Small,Family,0,5,2,19447,25303,1039,27854,2209,2,27812,630,302418,18200,E-commerce,160875,8,50000,High_Risk
+43,Female,Single,Graduate,199891,Government,18,Medium,Rented,26471,3,1,4250,17100,7448,17375,920,2,22724,547,73372,178139,Vehicle,454653,50,50000,Not_Eligible
+59,Male,Married,Graduate,30709,Self-employed,19,Medium,Rented,20334,1,3,7877,12914,2962,11955,6092,0,0,694,269792,38635,Personal Loan,449469,48,500,Not_Eligible
+55,Male,Married,Graduate,147958,Private,33,Medium,Rented,28909,2,3,15639,401,2631,26336,8251,2,20878,668,317882,124035,Vehicle,1125258,83,21952,High_Risk
+55,Female,Single,Post Graduate,77086,Private,39,Small,Own,0,5,3,4028,23481,2365,14297,7910,0,0,376,36088,131598,Vehicle,1199597,12,25967,Not_Eligible
+41,Male,Married,Post Graduate,23762,Government,29,Medium,Rented,25360,5,0,10997,13962,8751,18940,8767,1,10430,507,107810,41153,E-commerce,74691,10,500,Not_Eligible
+53,Female,Married,Graduate,185609,Government,3,Small,Own,0,4,1,15710,16358,5270,5788,354,1,10924,846,147851,1625,Home Appliances,197397,16,50000,Eligible
+38,Female,Single,Post Graduate,26448,Private,16,Medium,Rented,8266,5,2,472,25314,7058,16221,4364,0,0,476,464153,188691,E-commerce,195916,9,500,Not_Eligible
+49,Male,Married,Graduate,53092,Government,29,Medium,Family,0,5,1,507,16872,2437,13937,5152,2,4884,307,110583,178247,Vehicle,701321,71,11244,Not_Eligible
+48,Male,Single,Graduate,19717,Private,24,Small,Rented,40418,3,2,15771,27842,1038,5444,4397,2,16516,759,460344,34972,Home Appliances,122804,7,500,Not_Eligible
+33,Female,Single,High School,102187,Private,18,Medium,Own,0,2,2,5255,16787,862,7925,8386,1,10953,813,266991,120266,E-commerce,73134,10,37536,Eligible
+34,Female,Married,Post Graduate,125930,Self-employed,17,Large,Family,0,6,1,18190,10276,4687,21690,3436,0,0,661,474328,30285,Personal Loan,631536,46,49651,High_Risk
+27,Male,Married,Post Graduate,74324,Private,16,Medium,Rented,12680,6,0,18548,27681,3601,7056,9480,0,0,649,415643,113309,Home Appliances,173642,18,18649,High_Risk
+30,Female,Single,Post Graduate,28239,Private,23,Small,Rented,22756,1,3,17609,19273,7794,5699,14036,0,0,493,146476,63514,Education,276247,12,500,Not_Eligible
+40,Male,Single,Post Graduate,36488,Self-employed,7,Medium,Family,0,5,3,19936,22813,7990,3611,9911,2,17084,498,279885,150334,Vehicle,337037,56,500,Not_Eligible
+42,Male,Married,Professional,187677,Government,21,Small,Rented,22407,1,3,16461,6804,3453,2743,5833,1,14500,803,358475,114721,E-commerce,174431,14,50000,Eligible
+30,Female,Married,Graduate,164095,Self-employed,8,Medium,Rented,30131,6,1,7669,20132,4619,14164,6521,0,0,772,39183,99615,Personal Loan,107342,60,50000,Eligible
+40,Male,Single,Post Graduate,188328,Private,27,Medium,Own,0,4,1,19845,16806,4125,15679,8779,1,7531,574,331507,136295,Personal Loan,357917,48,50000,Not_Eligible
+46,Female,Single,Graduate,113199,Self-employed,35,Small,Rented,10556,5,1,6917,3155,6913,19481,10860,2,26762,472,229833,95157,Education,453968,48,11191,Not_Eligible
+33,Female,Married,Graduate,116020,Private,20,Medium,Family,0,5,0,11728,7621,6481,18029,4523,1,14066,403,17801,2658,Personal Loan,160630,21,34801,Not_Eligible
+37,Female,Single,Graduate,160410,Private,15,Medium,Own,0,4,0,114,27350,6685,17030,576,1,2514,306,433508,119191,Home Appliances,200714,29,50000,Not_Eligible
+38,Female,Single,Graduate,129078,Private,38,Medium,Own,0,2,1,19252,17141,1027,29974,10540,0,0,566,132782,155605,Personal Loan,843065,39,43204,Not_Eligible
+43,Male,Single,Graduate,95741,Government,27,Small,Rented,19466,5,3,11837,23229,3710,8999,9923,2,2138,605,437095,98074,Personal Loan,200639,46,22649,High_Risk
+38,Male,Married,Graduate,69000,Self-employed,17,Small,Own,0,4,0,18977,5151,9686,21945,1521,0,0,671,103383,35004,Vehicle,1029065,46,15433,Not_Eligible
+51,Female,Married,High School,104819,Government,1,Medium,Own,0,4,2,7056,6535,3747,4229,9398,2,28264,743,270830,1568,Personal Loan,655730,22,26752,Not_Eligible
+36,Female,Married,Graduate,26834,Private,0,Small,Rented,12763,2,2,6265,28237,2157,25761,1074,0,0,502,185404,59297,Education,414891,7,500,Not_Eligible
+40,Male,Married,Post Graduate,50603,Private,9,Medium,Family,0,1,1,10448,12605,2396,12155,9647,0,0,391,446498,153609,Personal Loan,847038,53,11399,Not_Eligible
+38,Female,Married,Graduate,151430,Private,9,Small,Own,0,4,3,17269,26608,753,11699,11165,1,10013,764,476527,64417,Vehicle,1056207,71,50000,Eligible
+31,Male,Married,Graduate,175590,Private,29,Small,Own,0,3,0,10978,24250,7918,5785,232,0,0,720,385032,191231,Vehicle,1376263,23,50000,Not_Eligible
+49,Female,Married,Graduate,33830,Private,20,Medium,Rented,48688,4,3,15850,10107,550,16250,10900,0,0,593,422801,66489,Education,295096,33,500,Not_Eligible
+33,Male,Married,Graduate,32927,Private,40,Small,Rented,6053,3,2,4289,28486,6163,13189,1806,0,0,321,384457,85523,Education,474211,37,500,Not_Eligible
+35,Female,Married,Graduate,30828,Self-employed,22,Medium,Own,0,6,1,15516,23300,4296,29280,3975,2,3318,557,146712,152074,Home Appliances,186422,23,500,Not_Eligible
+53,Male,Single,Post Graduate,161442,Government,37,Small,Own,0,5,3,14649,3830,1399,6984,10573,2,28942,641,460200,122788,E-commerce,37308,9,50000,High_Risk
+59,Male,Married,High School,72576,Government,22,Medium,Own,0,3,1,17926,2865,8901,13687,5326,0,0,773,265016,8188,Education,244940,43,21102,Eligible
+49,Female,Married,Post Graduate,75451,Private,14,Small,Rented,14163,5,3,1152,3799,7549,27206,14656,1,1906,580,171736,15256,Home Appliances,261314,25,500,Not_Eligible
+57,Male,Single,Post Graduate,17306,Private,29,Medium,Family,0,4,0,7684,22211,8288,24604,14359,1,12021,555,96133,39303,Education,97688,36,500,Not_Eligible
+55,Male,Married,Graduate,194931,Private,18,Medium,Rented,37733,4,0,1774,4295,9399,23406,14804,1,1675,509,354886,174326,E-commerce,97199,17,48249,Not_Eligible
+42,Female,Single,Post Graduate,95297,Private,11,Small,Own,0,4,2,8001,8474,9165,16728,1565,1,5552,528,138717,4463,Education,244957,37,30259,Not_Eligible
+52,Male,Single,Graduate,162528,Private,19,Medium,Own,0,6,3,15178,13033,7156,26451,2644,2,8742,309,326337,14320,Personal Loan,256653,19,50000,Not_Eligible
+36,Male,Married,Post Graduate,145921,Private,27,Small,Rented,22680,2,0,12801,4069,5571,8271,2747,1,11982,357,32501,155660,Home Appliances,81569,34,45840,Not_Eligible
+41,Male,Single,Post Graduate,41228,Private,15,Medium,Rented,48546,3,3,15060,9913,7122,24670,8780,1,6554,716,317404,124571,E-commerce,24331,9,500,Not_Eligible
+44,Female,Married,Post Graduate,163250,Private,28,Small,Rented,46861,2,3,14756,20346,4763,18252,6451,2,20334,499,321303,196745,Education,204112,41,23757,Not_Eligible
+59,Female,Married,Graduate,116806,Private,40,Medium,Family,0,4,1,19845,29164,2222,11799,11188,1,2010,768,262362,43919,E-commerce,78255,22,46358,Eligible
+55,Female,Married,Post Graduate,126797,Private,16,Small,Own,0,6,3,17595,14094,4166,8105,4231,0,0,518,328461,131910,E-commerce,197729,17,50000,Not_Eligible
+42,Male,Single,Professional,52058,Private,12,Large,Own,0,4,3,11725,22402,4936,16606,2996,0,0,849,496892,26904,Personal Loan,375885,41,11975,Eligible
+48,Male,Single,Graduate,171672,Private,16,Medium,Family,0,2,0,17517,15904,941,2084,9735,1,5000,399,419251,118028,Personal Loan,685780,17,50000,Not_Eligible
+32,Male,Single,Post Graduate,187359,Private,34,Medium,Own,0,6,3,958,13989,8551,22012,9259,0,0,403,219775,21235,E-commerce,168275,12,50000,Not_Eligible
+53,Female,Single,Post Graduate,90203,Private,7,Small,Own,0,5,2,14427,15616,9141,8605,10359,2,15162,623,435776,181614,Home Appliances,256828,24,20226,High_Risk
+44,Male,Married,Graduate,32108,Private,39,Small,Own,0,3,0,10441,28757,4490,12898,4681,1,10341,742,477225,83198,Personal Loan,867781,16,500,Not_Eligible
+44,Male,Married,Post Graduate,172023,Private,16,Small,Own,0,1,2,19138,1783,5214,7408,7896,0,0,379,80029,50991,Personal Loan,90306,17,50000,Not_Eligible
+52,Female,Single,Graduate,179168,Self-employed,34,Large,Own,0,3,2,10075,15401,8490,15031,13926,1,14060,577,179463,196902,Home Appliances,264859,36,50000,Not_Eligible
+47,Female,Married,Graduate,108698,Private,32,Medium,Family,0,5,3,3572,1541,4823,12386,9168,2,8904,423,371521,13292,Vehicle,1498113,36,36174,Not_Eligible
+27,Female,Single,High School,122143,Private,32,Small,Own,0,4,3,14482,26251,7038,7257,13988,2,19532,706,257484,159979,E-commerce,60214,10,34929,Eligible
+35,Male,Single,Graduate,56261,Private,37,Medium,Own,0,2,1,19007,18035,5394,26881,6501,2,4514,609,67353,101994,E-commerce,165267,8,1203,Not_Eligible
+31,Female,Single,Post Graduate,27482,Private,7,Medium,Own,0,1,1,323,1417,3076,23263,672,2,3252,660,236257,137521,Education,296320,33,500,Not_Eligible
+51,Female,Married,Graduate,189667,Private,24,Small,Family,0,6,0,1283,18716,8045,12860,11406,1,2774,448,186857,52070,Home Appliances,121189,20,50000,Not_Eligible
+26,Male,Married,Graduate,104347,Self-employed,4,Medium,Rented,8693,3,0,13226,13072,2330,3613,6907,2,28400,459,369410,176270,Education,349327,39,23474,Not_Eligible
+32,Female,Single,Graduate,65869,Private,12,Small,Family,0,5,2,11112,1415,2632,25666,631,2,7894,652,257768,90216,E-commerce,46028,14,11110,High_Risk
+46,Female,Married,Graduate,143248,Private,1,Small,Rented,24442,3,3,10972,29349,7068,21514,2081,1,13314,494,69960,83711,Education,119453,6,32325,Not_Eligible
+50,Male,Married,Post Graduate,19847,Private,27,Medium,Own,0,1,0,1804,11353,7244,17557,4693,1,9123,680,24735,91260,Vehicle,996147,47,500,Not_Eligible
+43,Female,Married,Post Graduate,29788,Private,24,Small,Family,0,3,2,11442,713,9568,18930,2865,2,4482,384,143652,59277,Education,166732,8,500,Not_Eligible
+55,Female,Single,High School,59894,Private,30,Large,Own,0,5,2,11360,18386,7253,2213,10267,1,7177,466,78382,63766,Education,475675,41,14703,Not_Eligible
+58,Female,Single,Graduate,98370,Private,7,Medium,Rented,30339,3,0,16986,11259,734,15268,9168,0,0,356,438140,28019,Home Appliances,281878,9,16230,Not_Eligible
+29,Female,Married,Graduate,82837,Private,13,Large,Family,0,4,0,7802,19701,8571,7284,4945,0,0,348,135558,97265,Personal Loan,63369,22,31828,Not_Eligible
+59,Female,Single,Graduate,49659,Self-employed,27,Medium,Own,0,3,1,6958,4870,4432,20237,1269,1,9458,444,317248,94945,Home Appliances,48137,20,3031,Not_Eligible
+47,Female,Married,Graduate,80000,Government,33,Large,Own,0,3,2,1632,24849,582,28076,1178,0,0,569,63771,76030,Personal Loan,663161,21,23914,Not_Eligible
+47,Male,Married,Graduate,76773,Self-employed,36,Small,Own,0,2,1,11338,12600,6001,16863,14185,0,0,379,220857,197123,Education,228502,29,17058,Not_Eligible
+28,Female,Single,Graduate,112064,Private,3,Medium,Own,0,2,3,12962,12622,2118,18917,5175,0,0,351,467049,22611,Education,192797,25,44408,Not_Eligible
+47,Female,Married,Graduate,119107,Government,16,Medium,Own,0,2,1,5614,24113,4452,20689,1609,1,13510,783,321719,182058,Personal Loan,610774,58,38517,Eligible
+51,Female,Married,Graduate,178379,Private,0,Large,Rented,26971,5,0,14624,16448,4975,28028,10673,1,13924,583,144159,173346,Home Appliances,106856,8,40692,Not_Eligible
+45,Male,Married,Graduate,164254,Private,33,Small,Own,0,3,0,18761,40,1205,3069,13050,1,2232,694,373835,4452,E-commerce,175019,15,50000,High_Risk
+28,Male,Married,Post Graduate,69082,Self-employed,5,Medium,Family,0,5,1,3483,17357,8580,10683,1829,1,9890,700,250586,140255,Vehicle,750349,64,16998,High_Risk
+43,Female,Married,Post Graduate,181994,Private,33,Medium,Rented,35046,2,1,11454,19378,5348,9514,14174,2,23652,355,117552,41839,E-commerce,196428,5,40502,Not_Eligible
+58,Female,Married,Graduate,111343,Self-employed,6,Small,Own,0,2,2,13889,9361,9669,22064,10870,0,0,641,498268,8261,Vehicle,1302072,58,32529,High_Risk
+51,Female,Married,Post Graduate,49720,Government,0,Large,Own,0,6,1,369,5423,4916,14541,3780,1,9448,774,468794,172202,Education,313419,43,4963,Not_Eligible
+29,Male,Married,Post Graduate,77926,Private,36,Small,Family,0,6,0,3581,1614,6151,23617,11632,1,13789,546,283321,23157,E-commerce,67792,20,5006,Not_Eligible
+59,Male,Married,High School,152226,Private,17,Small,Own,0,3,0,7913,25387,8218,15227,6299,0,0,774,16589,59778,Education,306745,46,50000,Eligible
+59,Female,Single,Graduate,167028,Private,17,Medium,Family,0,2,2,2748,126,2515,29320,9530,0,0,821,205748,19302,Vehicle,744180,64,50000,Eligible
+31,Male,Single,Graduate,84213,Self-employed,26,Medium,Rented,33425,5,1,7110,17504,9136,23476,1903,0,0,601,256981,28390,E-commerce,104492,11,500,Not_Eligible
+53,Female,Single,Post Graduate,44156,Government,11,Small,Own,0,1,2,2947,25084,2253,2508,3663,0,0,356,464897,12348,Personal Loan,406679,57,18830,Not_Eligible
+39,Male,Married,Graduate,50499,Private,28,Small,Family,0,3,3,17933,10564,9962,29677,11602,0,0,640,366497,168471,E-commerce,169190,7,500,Not_Eligible
+46,Male,Married,Graduate,34149,Private,17,Small,Family,0,4,1,11982,6007,6575,28663,12080,0,0,784,111249,11811,Personal Loan,872339,40,500,Not_Eligible
+41,Female,Married,Graduate,144267,Private,11,Medium,Own,0,5,2,6583,21449,5428,3215,163,0,0,619,255011,151849,Vehicle,227919,67,50000,High_Risk
+53,Male,Single,Graduate,108054,Private,16,Large,Own,0,1,3,15576,18908,2495,12964,3216,2,14682,740,89750,31422,Personal Loan,204182,54,37160,Eligible
+60,Female,Married,Post Graduate,98469,Private,0,Medium,Own,0,1,0,368,446,5906,29176,9113,2,16626,594,236920,182981,Home Appliances,147257,34,12567,Not_Eligible
+53,Female,Married,Graduate,139299,Government,12,Small,Rented,29157,2,2,11938,17312,5754,25464,13588,1,7750,531,267682,169574,E-commerce,101791,4,20808,Not_Eligible
+58,Female,Single,Post Graduate,168304,Private,24,Medium,Family,0,1,1,13669,11,9846,15112,10115,0,0,821,254893,125889,Home Appliances,234674,28,50000,Eligible
+59,Male,Married,Professional,162172,Government,5,Large,Family,0,4,2,16187,11989,8431,17252,10600,2,23538,384,213651,165647,Personal Loan,337231,22,48941,Not_Eligible
+28,Male,Married,Post Graduate,40371,Private,4,Medium,Own,0,6,2,4445,9121,5087,2830,5829,0,0,546,218625,59667,Education,438714,39,12985,Not_Eligible
+34,Female,Married,High School,124081,Private,26,Small,Rented,26453,2,0,11830,25005,4203,17810,820,0,0,385,398493,156630,Home Appliances,103400,27,34985,Not_Eligible
+50,Male,Single,Post Graduate,178265,Private,17,Small,Own,0,3,0,15354,29319,4177,20658,11489,1,4013,660,252933,44316,Home Appliances,87423,11,50000,High_Risk
+46,Male,Married,High School,158162,Self-employed,5,Large,Rented,16894,2,0,15947,20952,4095,12062,11990,1,3464,807,21005,122941,Education,348762,41,50000,Eligible
+26,Male,Married,Graduate,75941,Private,30,Large,Own,0,1,0,3513,22033,629,10589,6649,0,0,849,370414,183880,Home Appliances,277230,20,30020,Eligible
+28,Female,Married,Post Graduate,87651,Private,31,Small,Own,0,5,0,19531,682,843,25198,7597,2,3628,428,308863,144699,Home Appliances,60149,22,22998,Not_Eligible
+43,Male,Married,Graduate,179687,Private,1,Large,Rented,8673,2,2,5479,1919,7639,14563,3525,0,0,700,347845,53919,Education,356375,47,50000,High_Risk
+47,Male,Married,Graduate,21080,Government,8,Small,Own,0,4,3,7819,23301,2914,9392,6790,0,0,781,355340,147696,Vehicle,239288,59,500,Not_Eligible
+31,Female,Single,Graduate,112203,Private,15,Small,Family,0,5,1,3841,12847,4407,12495,3629,1,5572,759,86596,176664,Vehicle,807500,54,44561,Eligible
+31,Male,Married,Post Graduate,36478,Private,29,Medium,Rented,12094,6,3,2998,15210,7133,15783,6308,1,4520,577,485959,177863,Vehicle,211598,13,500,Not_Eligible
+29,Female,Married,Post Graduate,180499,Government,3,Medium,Own,0,2,2,5109,20760,6271,9266,2010,2,7790,396,495197,147835,Personal Loan,626179,21,50000,Not_Eligible
+45,Female,Married,Graduate,22163,Government,33,Medium,Own,0,4,3,2708,10410,3924,17685,9100,0,0,554,72881,146469,Home Appliances,191907,6,500,Not_Eligible
+25,Female,Single,Post Graduate,19327,Private,13,Large,Rented,36375,6,2,14656,20456,7648,26115,3713,1,11070,727,109469,156968,Personal Loan,811227,28,500,Not_Eligible
+45,Female,Married,Graduate,75854,Private,5,Large,Own,0,3,0,11950,21807,2003,22791,10869,0,0,641,123121,147292,Home Appliances,146330,16,17514,High_Risk
+42,Male,Married,High School,52030,Private,35,Small,Own,0,1,2,7800,7211,4990,8477,7766,0,0,513,483226,26748,Vehicle,674054,50,14273,Not_Eligible
+41,Male,Single,Graduate,106666,Private,3,Medium,Rented,27003,2,2,10942,20582,1504,15206,13440,1,4347,418,466222,160817,E-commerce,132659,18,16682,Not_Eligible
+49,Male,Married,Professional,70420,Private,5,Medium,Rented,45103,5,2,12084,5082,5550,17224,3317,2,15150,659,132507,35994,E-commerce,198132,6,500,Not_Eligible
+43,Male,Single,Graduate,80919,Private,38,Medium,Family,0,5,3,3684,9317,1403,21048,4094,0,0,536,315315,111271,Vehicle,1317765,55,26733,Not_Eligible
+51,Female,Married,Graduate,119511,Private,21,Large,Own,0,2,0,5939,23405,9445,23180,3645,2,24400,560,121728,67891,E-commerce,68819,23,24457,Not_Eligible
+52,Female,Married,High School,118711,Private,18,Medium,Own,0,2,2,17642,29492,6762,15588,9462,1,4122,817,19024,42605,Education,368092,13,41324,Eligible
+58,Female,Single,Post Graduate,187963,Private,28,Small,Own,0,2,3,241,1938,2832,10821,1602,1,6634,305,115160,56384,Education,128658,34,50000,Not_Eligible
+53,Female,Married,Graduate,103913,Private,25,Small,Family,0,2,0,19135,19461,6320,20461,10295,2,17280,431,38672,16908,Home Appliances,224307,7,20142,Not_Eligible
+43,Female,Single,Graduate,119383,Private,25,Large,Own,0,5,1,19286,17093,3825,5521,12286,0,0,806,423871,87931,Home Appliances,195881,22,50000,Eligible
+42,Male,Married,Professional,140420,Private,0,Large,Family,0,6,3,5064,18173,5426,20876,10122,0,0,807,392721,83809,Vehicle,1456633,66,50000,Eligible
+33,Male,Married,High School,47233,Self-employed,22,Small,Own,0,1,0,6414,23604,2089,27097,2020,2,24386,466,92154,80686,Home Appliances,274591,7,500,Not_Eligible
+46,Female,Married,Graduate,138388,Private,11,Small,Own,0,5,0,4137,2096,5253,21865,7395,0,0,847,283737,18337,Education,393905,20,50000,Eligible
+30,Male,Single,Graduate,174454,Private,33,Medium,Own,0,5,3,11213,22178,1514,14142,8002,2,14792,416,102576,121361,E-commerce,115135,22,50000,Not_Eligible
+58,Female,Single,Post Graduate,73842,Private,20,Small,Own,0,4,0,4278,8379,1954,25053,5865,2,28652,328,282708,33860,Vehicle,1315293,28,500,Not_Eligible
+55,Female,Married,Graduate,47993,Private,5,Small,Own,0,6,2,15814,4628,6048,16902,6995,2,29490,469,447986,171183,E-commerce,55617,18,500,Not_Eligible
+29,Female,Married,Graduate,79050,Private,36,Large,Rented,39654,1,3,7748,13409,5256,17140,11436,1,14936,592,439933,4768,Education,445136,32,500,Not_Eligible
+53,Female,Married,High School,65882,Private,11,Large,Own,0,5,1,19349,810,3289,25860,12519,1,1230,303,416536,11053,E-commerce,20374,6,6865,Not_Eligible
+29,Female,Single,Post Graduate,123252,Self-employed,11,Large,Own,0,1,1,17065,18919,1069,7411,4500,2,25448,394,120549,60041,Vehicle,1144188,66,42121,Not_Eligible
+50,Female,Single,Post Graduate,174792,Private,38,Medium,Rented,21188,6,1,8026,16956,4523,23834,4947,0,0,735,95373,81577,Education,453422,28,50000,Eligible
+28,Female,Married,High School,125340,Private,31,Small,Rented,42052,3,1,11919,15383,9296,21030,3121,0,0,642,80215,194000,Vehicle,687192,20,17341,Not_Eligible
+42,Male,Single,Graduate,38219,Private,35,Large,Own,0,1,1,487,917,7227,16813,6027,1,11494,633,63562,105061,E-commerce,158573,23,500,Not_Eligible
+48,Male,Single,Post Graduate,73219,Private,27,Small,Own,0,5,2,1351,22891,1051,4159,8187,1,6125,845,306903,75786,E-commerce,18602,13,27337,Eligible
+51,Female,Married,High School,142523,Self-employed,37,Small,Family,0,5,3,10121,1055,9410,23441,10704,2,22328,425,329222,167522,Personal Loan,387513,48,33694,Not_Eligible
+40,Female,Single,Graduate,76109,Private,4,Large,Own,0,3,3,9460,7877,4523,8130,4014,2,18234,794,441212,48178,E-commerce,155075,7,18190,Not_Eligible
+58,Female,Married,Graduate,123482,Government,24,Medium,Family,0,2,3,7966,11877,5970,27074,3245,1,12641,495,45168,179401,Home Appliances,286564,10,34898,Not_Eligible
+52,Female,Single,Graduate,143399,Government,12,Large,Own,0,1,0,1806,21065,505,24181,498,0,0,809,132625,80690,Personal Loan,792135,48,50000,Eligible
+32,Female,Married,Graduate,75896,Private,16,Small,Rented,42587,6,1,16798,12232,3446,12182,1408,0,0,731,363976,62543,Home Appliances,65448,26,765,Not_Eligible
+49,Female,Married,Graduate,134771,Private,9,Large,Family,0,2,3,8124,24498,7969,14182,773,2,23962,417,340647,60268,Education,171680,17,42651,Not_Eligible
+51,Female,Married,High School,88651,Private,8,Medium,Rented,24766,6,2,9400,28032,3641,2714,3110,1,12674,415,213715,1938,Personal Loan,132197,48,16811,Not_Eligible
+37,Male,Single,Graduate,39984,Self-employed,18,Medium,Own,0,4,1,8070,22952,2078,15945,10425,1,3405,598,76189,134776,E-commerce,163438,14,500,Not_Eligible
+51,Male,Married,Post Graduate,83854,Private,37,Large,Own,0,5,1,9947,1167,1361,3622,11613,1,13093,577,242103,115459,Education,399168,20,26175,Not_Eligible
+57,Male,Married,Graduate,96593,Private,26,Small,Own,0,5,0,12967,23126,9287,29648,14598,2,8066,429,85954,126893,Education,304314,39,10972,Not_Eligible
+54,Male,Single,High School,15441,Government,14,Medium,Own,0,6,1,15280,6186,8222,19924,8176,0,0,443,267762,130365,Home Appliances,140626,25,500,Not_Eligible
+52,Female,Single,Post Graduate,180151,Government,17,Medium,Own,0,1,1,10989,26656,917,8585,6820,0,0,795,450755,5468,Home Appliances,60623,21,50000,Eligible
+47,Male,Single,High School,112660,Private,21,Medium,Rented,6971,6,1,3319,29360,9290,24504,13491,2,8260,715,97844,175531,Home Appliances,258251,29,19328,Eligible
+34,Male,Married,Post Graduate,21716,Private,10,Large,Rented,42816,1,2,17495,2525,8298,2547,2206,1,9525,405,58982,102265,Vehicle,506186,51,500,Not_Eligible
+53,Male,Married,Graduate,175579,Government,21,Medium,Rented,44284,6,1,5692,2958,3919,17381,9454,2,17214,699,368816,138284,Vehicle,959930,80,33747,High_Risk
+38,Female,Married,Post Graduate,173206,Private,28,Small,Rented,29131,2,0,325,20916,6738,5118,12272,0,0,384,12172,7239,Education,422978,41,50000,Not_Eligible
+44,Female,Married,Graduate,17229,Self-employed,9,Small,Own,0,6,3,780,4299,2950,3524,7538,0,0,545,491702,152209,Personal Loan,765129,29,500,Not_Eligible
+36,Male,Married,High School,45188,Private,23,Large,Own,0,1,1,15480,29061,2872,8846,3921,2,2094,306,387470,135473,Education,219655,25,12892,Not_Eligible
+36,Female,Married,Graduate,82302,Private,29,Large,Own,0,3,1,7739,16209,7288,10242,9313,2,19296,657,201687,73686,Home Appliances,139284,35,13791,High_Risk
+30,Female,Married,High School,108841,Government,21,Large,Own,0,4,2,453,17210,2423,22326,14935,0,0,400,181255,187162,Vehicle,1322990,77,33172,Not_Eligible
+59,Female,Married,Graduate,149266,Private,11,Small,Rented,34676,6,2,16229,25809,3874,26943,3539,2,16242,430,193430,130136,E-commerce,125434,7,23897,Not_Eligible
+30,Female,Single,Post Graduate,93502,Private,22,Small,Rented,11565,1,2,6086,6519,3898,23723,8449,0,0,404,198329,181498,Home Appliances,60245,14,19016,Not_Eligible
+28,Female,Married,Post Graduate,128168,Private,32,Medium,Own,0,1,0,19560,16673,1927,22717,761,0,0,401,419776,164323,Vehicle,1004427,38,50000,Not_Eligible
+58,Male,Married,High School,16873,Private,9,Medium,Family,0,4,2,17594,29963,8370,17834,3489,2,24188,342,399929,41142,E-commerce,134486,22,500,Not_Eligible
+44,Female,Single,Post Graduate,136830,Government,23,Small,Own,0,1,0,963,662,6902,12393,11506,0,0,605,102291,199295,Education,200476,45,50000,High_Risk
+40,Male,Married,Post Graduate,184349,Private,27,Medium,Rented,48075,5,3,13808,5240,8689,9141,7440,0,0,778,89968,148529,Home Appliances,163340,30,50000,Eligible
+51,Male,Single,Post Graduate,112349,Private,13,Small,Own,0,1,1,12064,4382,5477,28483,2988,0,0,466,270277,37942,E-commerce,21363,9,37051,Not_Eligible
+38,Female,Married,Graduate,99161,Private,15,Medium,Family,0,6,1,3440,10067,2165,16609,5031,1,1679,729,325164,158613,Personal Loan,934340,55,37691,Eligible
+29,Female,Married,Graduate,69967,Self-employed,36,Small,Own,0,4,1,6861,3897,3155,17802,1814,0,0,599,363587,85800,E-commerce,118482,3,23241,Not_Eligible
+51,Female,Married,Graduate,191540,Private,14,Small,Rented,20773,6,1,9816,5162,3858,2418,11692,0,0,440,156764,172874,Home Appliances,36726,19,50000,Not_Eligible
+31,Male,Single,Graduate,21142,Self-employed,24,Small,Rented,29471,1,2,2922,25581,9449,14824,14143,0,0,333,241229,34661,E-commerce,180624,11,500,Not_Eligible
+44,Male,Single,Post Graduate,68047,Self-employed,6,Large,Own,0,2,1,14438,13935,2756,21091,1587,1,9283,731,52134,51919,Personal Loan,889870,38,13804,Not_Eligible
+59,Male,Single,High School,40661,Private,37,Medium,Family,0,3,0,5546,10741,7084,15863,3569,1,12317,312,227871,69525,Education,110662,30,500,Not_Eligible
+58,Female,Single,Graduate,175261,Government,24,Large,Own,0,1,2,18747,12566,1665,19200,12855,0,0,532,343748,90167,E-commerce,79220,7,50000,Not_Eligible
+37,Female,Single,High School,104282,Private,31,Medium,Own,0,1,1,16034,29119,9582,24672,13180,1,7083,318,152207,126262,Vehicle,1038669,26,20236,Not_Eligible
+53,Female,Single,Post Graduate,185642,Private,24,Medium,Own,0,2,0,12687,14737,6641,2610,11510,1,9292,727,159332,44301,Vehicle,1365794,70,50000,Eligible
+47,Female,Married,Graduate,138054,Private,14,Small,Family,0,5,3,2395,14069,4591,27323,10726,1,9077,845,231139,141116,Personal Loan,792949,15,41108,Not_Eligible
+42,Male,Single,Graduate,118014,Government,13,Medium,Own,0,5,1,493,27840,3786,24877,12921,1,14292,477,433302,4861,Home Appliances,288998,21,26974,Not_Eligible
+30,Male,Single,Post Graduate,110732,Government,28,Small,Family,0,1,2,2918,1118,3868,13757,5602,0,0,472,302055,66202,Vehicle,1120789,25,45751,Not_Eligible
+38,Male,Married,Professional,52495,Government,35,Medium,Own,0,1,0,9994,14350,2641,23376,13425,1,5401,611,459518,131803,Vehicle,1170658,35,500,Not_Eligible
+48,Male,Married,High School,118979,Self-employed,5,Large,Own,0,4,1,15625,22447,6198,3862,13300,2,26836,576,30835,52980,E-commerce,144347,9,31491,Not_Eligible
+60,Male,Married,Post Graduate,141771,Private,34,Large,Own,0,3,1,3059,15439,8727,10630,3446,0,0,510,424526,86293,Vehicle,1403957,63,50000,Not_Eligible
+25,Male,Married,Post Graduate,193589,Government,34,Small,Own,0,5,0,14148,26047,2791,5017,1095,0,0,501,21880,121212,Vehicle,722237,45,50000,Not_Eligible
+50,Male,Married,High School,116561,Self-employed,4,Medium,Family,0,2,3,955,26601,7609,19791,7815,0,0,403,161176,49623,Education,50117,18,40623,Not_Eligible
+55,Female,Married,Post Graduate,188685,Private,4,Small,Own,0,3,1,5312,10088,5879,25973,11375,2,24650,438,213288,192869,Vehicle,1200720,72,50000,Not_Eligible
+59,Male,Married,Graduate,189738,Private,28,Small,Own,0,2,2,11970,24533,7851,18842,12749,2,5010,622,118291,169421,Education,499863,9,50000,Not_Eligible
+40,Male,Married,Graduate,111672,Private,34,Medium,Own,0,2,2,16568,7319,7813,21924,2137,2,7760,704,494646,194206,Home Appliances,90206,29,34792,Eligible
+29,Male,Married,Graduate,96265,Self-employed,16,Medium,Own,0,5,1,15539,7191,872,6009,5661,0,0,713,446401,99136,Personal Loan,393278,24,45129,Eligible
+34,Male,Single,Graduate,41400,Private,26,Medium,Own,0,3,2,10653,29325,701,28153,11518,1,2726,584,285620,68680,Education,176618,45,500,Not_Eligible
+55,Female,Married,High School,64675,Government,40,Small,Own,0,4,2,721,387,9194,7411,906,0,0,714,226473,198932,E-commerce,172998,3,23960,Not_Eligible
+56,Male,Single,High School,177633,Private,13,Large,Own,0,1,0,5868,10594,1976,16737,10844,2,9226,626,380879,145699,Vehicle,1273621,52,50000,High_Risk
+47,Male,Married,High School,40583,Private,9,Large,Own,0,4,2,15672,18885,5960,21130,4374,1,7811,496,353870,158672,Education,430015,32,500,Not_Eligible
+29,Male,Single,Graduate,88456,Private,40,Medium,Own,0,3,0,1624,12405,7655,25986,336,1,2797,494,240316,36540,Vehicle,1057469,54,23793,Not_Eligible
+29,Female,Single,Graduate,144247,Private,11,Large,Rented,5639,6,1,14128,25346,5286,28140,3629,1,3147,585,413582,173843,Education,380589,41,48689,Not_Eligible
+42,Female,Single,Graduate,59515,Self-employed,19,Small,Own,0,3,1,14079,7547,558,18764,11128,2,11488,469,96468,105627,Vehicle,801714,20,3971,Not_Eligible
+46,Male,Married,Graduate,195211,Private,18,Medium,Own,0,1,1,15040,16586,600,18136,13051,2,18768,720,138843,154667,Education,91888,23,50000,Eligible
+26,Male,Single,Graduate,135155,Self-employed,21,Large,Own,0,5,0,4344,3755,6861,13680,1219,2,17244,402,8820,165005,Personal Loan,499694,54,48384,Not_Eligible
+49,Male,Married,Graduate,20243,Private,11,Large,Own,0,1,2,4894,6335,9028,17899,6958,1,12175,330,59548,21185,Vehicle,127059,76,500,Not_Eligible
+44,Male,Married,Post Graduate,60727,Self-employed,27,Large,Own,0,6,1,3970,5206,3762,20896,3017,2,29462,570,99390,19815,Home Appliances,35437,21,500,Not_Eligible
+25,Female,Single,Graduate,151983,Private,28,Medium,Family,0,3,0,7872,22241,5667,20107,10253,2,2924,339,312414,13005,E-commerce,90312,15,50000,Not_Eligible
+28,Female,Married,Post Graduate,174691,Private,8,Large,Own,0,5,0,10479,6081,9371,18585,11711,1,10636,405,427760,128588,Home Appliances,31895,29,50000,Not_Eligible
+41,Female,Single,High School,186483,Private,19,Medium,Own,0,4,2,2395,20086,8339,14336,14432,2,6584,507,295096,183016,Personal Loan,177614,50,50000,Not_Eligible
+51,Male,Single,Post Graduate,172467,Private,2,Small,Own,0,3,2,11348,10369,5635,7481,5324,2,12092,302,222704,6022,Vehicle,884932,76,50000,Not_Eligible
+54,Male,Married,Professional,28834,Private,9,Small,Own,0,4,2,4778,16951,6728,3516,4488,2,11592,423,135100,27639,Home Appliances,294061,32,500,Not_Eligible
+40,Male,Married,Post Graduate,149992,Government,40,Medium,Own,0,2,2,11243,26217,9633,13782,4647,0,0,600,50714,97183,Vehicle,722011,42,50000,Not_Eligible
+35,Male,Single,Graduate,35381,Private,20,Medium,Own,0,1,3,6056,25900,8069,13102,11418,2,9162,506,292353,78245,Home Appliances,205634,26,500,Not_Eligible
+59,Female,Married,Graduate,29162,Private,25,Medium,Own,0,5,3,19093,337,4451,19026,6676,1,13525,793,70416,20600,Education,405624,26,500,Not_Eligible
+41,Male,Single,Graduate,143012,Private,36,Large,Rented,49994,6,3,6389,23528,7083,27207,341,0,0,351,395179,121982,Home Appliances,149547,9,20849,Not_Eligible
+36,Male,Married,Graduate,103461,Private,29,Medium,Own,0,6,3,17427,28670,3625,21643,14215,1,12411,696,204430,181088,Vehicle,319890,71,21612,High_Risk
+40,Female,Married,Post Graduate,134873,Private,32,Small,Rented,39621,2,3,3500,20039,9250,24539,1561,2,28654,626,175005,42379,Vehicle,1484667,55,2991,Not_Eligible
+25,Male,Married,Professional,172525,Private,29,Medium,Own,0,3,1,1698,5616,1388,18187,13923,2,16298,654,13326,566,Personal Loan,376999,14,50000,High_Risk
+35,Male,Married,Graduate,27733,Government,20,Medium,Own,0,3,2,3774,19943,2642,27968,2428,2,4832,670,121159,45057,Home Appliances,32135,26,500,Not_Eligible
+43,Male,Single,High School,112593,Self-employed,25,Medium,Own,0,5,2,8387,19084,3787,28308,8072,2,21640,328,6677,36920,E-commerce,131937,9,19787,Not_Eligible
+58,Male,Married,Graduate,169369,Private,11,Medium,Own,0,4,0,18030,19866,2420,6279,4686,1,6926,736,362501,93248,Personal Loan,229320,15,50000,Eligible
+51,Male,Married,High School,96454,Private,36,Medium,Family,0,5,2,3525,12865,6153,19900,10302,2,11474,482,244938,21463,Vehicle,1048991,56,20533,Not_Eligible
+53,Male,Married,Graduate,111833,Private,7,Medium,Own,0,6,2,15678,15755,7269,16167,6045,0,0,658,392936,72179,Personal Loan,366613,47,41989,High_Risk
+44,Male,Single,Graduate,107103,Private,36,Medium,Own,0,3,2,13938,19556,8960,29217,5510,0,0,461,282618,23889,Vehicle,1280251,49,29396,Not_Eligible
+28,Male,Married,Post Graduate,182832,Private,36,Large,Family,0,4,3,6889,13918,5263,18372,7155,0,0,518,477145,135315,Vehicle,452620,12,50000,Not_Eligible
+39,Male,Married,High School,24230,Self-employed,5,Small,Own,0,4,2,6728,23207,6403,2446,14563,2,29712,685,391893,93839,Education,407954,30,500,Not_Eligible
+60,Female,Single,High School,177429,Private,29,Medium,Own,0,6,3,18953,21288,6192,7878,3680,1,4899,815,73793,15015,E-commerce,76013,3,50000,Eligible
+26,Male,Single,High School,166031,Private,40,Medium,Rented,41408,3,3,14293,9093,532,5626,3296,2,14842,783,58304,8741,E-commerce,164667,23,46984,Eligible
+56,Female,Married,Post Graduate,165314,Government,23,Small,Rented,5615,2,3,4778,18315,7231,7627,993,1,11007,700,444632,97752,Education,266549,17,50000,High_Risk
+49,Female,Married,Graduate,91273,Private,13,Medium,Own,0,3,1,18238,22696,720,4682,11080,1,4093,596,134555,118359,Education,328891,43,36710,Not_Eligible
+35,Male,Single,High School,110441,Government,36,Medium,Rented,48173,4,0,8136,14699,5701,23897,10163,2,19300,590,382550,34852,Vehicle,913944,12,500,Not_Eligible
+53,Female,Married,High School,83262,Private,21,Medium,Own,0,6,1,1593,21450,9999,15836,9132,1,13538,832,314288,64704,Vehicle,357059,19,12673,Not_Eligible
+55,Male,Married,Graduate,61566,Private,4,Medium,Rented,30902,5,2,16271,3799,7983,20812,354,1,12380,413,350950,121345,Vehicle,663930,44,500,Not_Eligible
+26,Male,Married,Graduate,176956,Self-employed,10,Small,Own,0,1,3,17375,11587,5312,29998,11859,0,0,825,133393,94236,Education,290970,38,50000,Eligible
+28,Male,Married,Graduate,108605,Government,27,Small,Rented,31512,4,3,8858,21058,3529,20121,12142,1,6671,657,156527,23242,Vehicle,239581,80,9036,High_Risk
+48,Male,Married,Graduate,148819,Self-employed,18,Small,Rented,28431,1,2,14079,26854,8454,15418,14176,0,0,639,277423,78254,Personal Loan,300392,37,36803,High_Risk
+60,Male,Married,Post Graduate,33650,Private,8,Medium,Family,0,3,2,4692,19380,8661,9475,13938,0,0,626,11096,39526,Home Appliances,79038,17,500,Not_Eligible
+25,Male,Married,Graduate,160952,Government,32,Medium,Own,0,6,3,17008,19910,3996,23126,3947,0,0,747,155823,185348,Home Appliances,253134,7,50000,Eligible
+48,Female,Married,Graduate,136887,Private,4,Large,Family,0,6,2,7371,10267,1523,16190,10656,0,0,676,253775,160778,Personal Loan,509043,40,50000,High_Risk
+29,Male,Married,High School,199558,Private,8,Medium,Own,0,1,0,5346,21028,6031,23194,6040,0,0,352,102231,62405,Home Appliances,179580,17,50000,Not_Eligible
+48,Female,Married,Professional,39785,Private,19,Small,Rented,38177,1,2,10014,10690,6523,2645,8940,0,0,730,142884,47033,E-commerce,81785,23,500,Not_Eligible
+47,Female,Married,Professional,114908,Private,1,Small,Own,0,5,1,5344,1561,9374,6567,4987,0,0,701,491768,26928,E-commerce,55786,13,49698,Eligible
+28,Female,Single,Post Graduate,109567,Private,15,Small,Own,0,3,2,12413,7401,8957,5638,9855,2,27762,804,144910,147413,Education,213913,38,24809,Eligible
+49,Male,Married,Graduate,114604,Private,37,Medium,Rented,12218,3,2,14954,18336,2676,21079,14292,0,0,815,451210,183650,Home Appliances,245642,32,28992,Eligible
+57,Female,Married,Graduate,25060,Government,38,Small,Family,0,6,1,8112,28858,2900,16511,9783,1,4765,822,463570,54612,E-commerce,26139,5,500,Not_Eligible
+56,Female,Married,Post Graduate,102528,Government,35,Medium,Own,0,6,1,15669,14874,9972,10875,13813,0,0,323,336944,127955,Education,218940,24,33153,Not_Eligible
+26,Female,Married,Post Graduate,70410,Self-employed,13,Medium,Own,0,6,0,8626,25806,3605,10671,13976,2,29592,647,76484,47005,Education,78357,44,500,Not_Eligible
+33,Male,Married,Graduate,129210,Private,2,Medium,Own,0,5,1,19405,23341,4855,18991,1783,0,0,814,102843,183405,Vehicle,1353739,42,50000,Eligible
+33,Female,Married,Graduate,57935,Self-employed,33,Small,Own,0,6,3,5279,16832,3402,29039,14465,2,24860,832,467117,59831,Personal Loan,780974,39,500,Not_Eligible
+41,Female,Married,Graduate,95485,Private,15,Small,Rented,25054,5,2,14095,24130,4237,29872,12274,1,8741,602,742,19217,Personal Loan,674206,54,500,Not_Eligible
+30,Male,Single,Post Graduate,129706,Private,30,Medium,Family,0,6,3,10707,12049,5861,15202,6401,2,24256,802,251903,176187,E-commerce,27480,8,36431,Eligible
+55,Male,Single,Graduate,26848,Government,4,Medium,Own,0,4,3,18871,13281,3278,20774,9001,1,9776,785,298140,189105,Home Appliances,139861,33,500,Not_Eligible
+52,Male,Single,Graduate,160556,Private,27,Small,Rented,44494,1,3,4389,22105,4422,4339,9256,1,10346,301,419140,79433,Vehicle,920515,40,38911,Not_Eligible
+54,Female,Single,Graduate,147411,Private,24,Large,Rented,36822,5,0,3935,19167,3850,28473,11796,2,25442,787,447535,181460,Vehicle,120759,55,8082,Eligible
+32,Male,Married,Graduate,25601,Private,37,Medium,Own,0,6,1,17351,15832,1525,2499,12042,2,29532,651,141794,48752,Home Appliances,95493,16,500,Not_Eligible
+25,Male,Married,Graduate,26976,Private,4,Medium,Family,0,2,0,18022,12996,7974,11583,1536,1,9062,616,251270,54179,E-commerce,199222,14,500,Not_Eligible
+57,Female,Married,High School,172303,Government,16,Small,Family,0,3,0,14948,29276,8968,22307,15,2,14364,398,316960,107328,Education,112436,8,50000,Not_Eligible
+35,Male,Single,Post Graduate,67416,Private,40,Small,Own,0,4,0,9498,1970,5174,29153,3697,2,20288,806,482591,120085,Personal Loan,418846,15,500,Not_Eligible
+48,Male,Married,Graduate,174242,Private,15,Small,Family,0,4,1,8205,1653,2444,6802,7905,2,22764,462,278294,77128,Personal Loan,457287,32,50000,Not_Eligible
+57,Female,Single,Graduate,107362,Private,26,Small,Own,0,5,0,13332,14371,6609,20509,12738,2,29618,530,60904,159922,Vehicle,1328913,36,11490,Not_Eligible
+26,Female,Married,Graduate,78320,Private,6,Medium,Own,0,3,3,14945,1028,5574,7258,9793,0,0,463,462083,158040,Vehicle,472241,56,28021,Not_Eligible
+25,Female,Single,Graduate,65608,Government,29,Medium,Own,0,6,2,5519,10227,5737,3407,2038,1,14364,834,256224,24190,Vehicle,987444,14,18858,Not_Eligible
+25,Female,Married,Graduate,136916,Self-employed,11,Large,Rented,17724,5,2,139,17058,6151,13867,10758,1,11249,566,89649,198090,Vehicle,198958,24,34848,Not_Eligible
+30,Male,Single,Graduate,35299,Government,23,Large,Rented,36474,6,2,1471,12155,7320,18146,7023,2,28648,362,95138,31836,Personal Loan,788124,22,500,Not_Eligible
+26,Female,Married,High School,89483,Self-employed,36,Small,Own,0,4,3,6890,6098,887,9393,5532,0,0,305,102285,105315,Education,496713,24,39042,Not_Eligible
+54,Female,Married,Post Graduate,78983,Private,27,Small,Rented,11917,1,0,13634,8541,1444,29246,11575,2,26780,840,360628,84608,Personal Loan,936857,24,500,Not_Eligible
+46,Male,Married,Graduate,43525,Government,19,Medium,Family,0,6,1,8806,18129,1409,19264,4434,0,0,429,474483,90350,Personal Loan,452540,18,6799,Not_Eligible
+60,Male,Single,Graduate,80272,Private,7,Large,Family,0,1,1,12368,28543,1969,14273,9280,1,14896,724,220682,25694,E-commerce,170768,16,16659,Eligible
+53,Male,Married,Graduate,112803,Private,13,Large,Own,0,2,2,9396,23443,9732,15599,2732,2,11774,316,48982,68607,Vehicle,187460,66,35283,Not_Eligible
+59,Male,Married,Post Graduate,140349,Private,34,Small,Own,0,2,2,5033,16422,7435,14998,5723,0,0,794,444249,6068,Education,449245,35,50000,Eligible
+33,Male,Married,Graduate,30976,Private,8,Small,Own,0,2,3,14975,4143,6813,5120,8367,2,12982,658,317341,194668,Home Appliances,246344,14,500,Not_Eligible
+35,Male,Married,Post Graduate,176394,Self-employed,26,Small,Rented,29311,5,2,14469,7280,7139,18979,9351,2,14824,423,285377,28770,Vehicle,693698,74,43057,Not_Eligible
+55,Female,Married,Post Graduate,177518,Private,19,Large,Own,0,3,0,19257,13218,818,23973,13790,0,0,789,30282,96657,Home Appliances,190278,24,50000,Eligible
+33,Male,Single,Graduate,143016,Self-employed,13,Medium,Rented,18930,2,2,16514,7400,2526,13794,4355,0,0,464,485302,43205,E-commerce,155748,16,50000,Not_Eligible
+27,Female,Single,Graduate,185994,Private,29,Medium,Own,0,1,3,7600,20660,8045,13924,13440,0,0,849,38495,35599,Personal Loan,170098,22,50000,Eligible
+49,Female,Single,Post Graduate,94170,Private,14,Medium,Rented,49973,2,2,14095,10986,4896,27493,12249,2,4212,630,305204,78043,Home Appliances,237984,13,500,Not_Eligible
+53,Female,Single,Graduate,166999,Government,11,Small,Rented,46803,5,2,7012,25016,5331,19103,5399,2,25334,547,298574,193844,Vehicle,1025080,46,22140,Not_Eligible
+59,Female,Married,Graduate,149545,Private,21,Medium,Rented,46995,5,0,17457,8071,7628,10339,2101,1,6718,332,256924,95638,Vehicle,960843,29,32098,Not_Eligible
+58,Male,Married,Graduate,119068,Private,31,Small,Family,0,2,0,12210,14890,1214,2110,3868,0,0,443,275684,192177,Education,189679,35,50000,Not_Eligible
+29,Female,Married,Graduate,48208,Private,35,Medium,Rented,30867,1,0,16693,21434,8087,25051,9867,0,0,332,198938,165409,Education,127271,19,500,Not_Eligible
+52,Male,Married,High School,118156,Self-employed,25,Medium,Own,0,4,0,5625,6184,6967,19539,11832,0,0,770,286513,87145,Vehicle,1497297,23,39330,Not_Eligible
+55,Female,Married,Graduate,181750,Government,27,Medium,Own,0,5,1,298,22843,4334,19532,9184,1,9236,355,181920,180237,E-commerce,119742,6,50000,Not_Eligible
+50,Male,Married,High School,197153,Private,32,Small,Own,0,1,3,2827,17574,5244,9920,10875,2,5918,362,236826,69637,Vehicle,1084168,21,50000,Not_Eligible
+54,Male,Married,Graduate,97892,Private,11,Large,Own,0,5,1,10627,19430,1205,7212,1525,0,0,368,339059,100286,Education,308298,24,47860,Not_Eligible
+55,Female,Single,Graduate,60862,Private,10,Medium,Rented,11039,2,2,19231,13635,2446,15842,7580,2,19794,836,371180,136088,Vehicle,1062200,12,500,Not_Eligible
+41,Male,Married,Post Graduate,153289,Private,19,Small,Own,0,2,3,12541,28053,2840,23219,13107,0,0,834,76673,117884,Vehicle,812796,51,50000,Eligible
+26,Female,Married,High School,29050,Private,25,Small,Own,0,4,3,16191,23158,8839,10336,5835,1,13419,693,496095,165785,Personal Loan,278644,26,500,Not_Eligible
+41,Male,Single,Graduate,42952,Private,26,Medium,Own,0,1,2,9385,5761,1570,16757,13484,2,12766,340,48347,32579,Vehicle,1083137,52,500,Not_Eligible
+32,Male,Married,Graduate,118959,Private,6,Small,Own,0,2,3,19170,16667,3268,29896,1857,1,10005,577,137890,99706,Vehicle,902009,80,35098,Not_Eligible
+29,Female,Married,High School,198188,Private,32,Small,Own,0,1,1,18820,27099,1751,8142,14682,1,3445,822,173412,132944,Vehicle,655127,75,50000,Eligible
+29,Female,Married,Graduate,75825,Private,14,Small,Own,0,2,1,4356,8382,3203,8463,11777,1,13539,353,161720,66162,Education,488382,30,16574,Not_Eligible
+50,Male,Married,High School,97015,Private,35,Small,Rented,26411,5,1,17244,16094,600,8606,9394,1,13153,737,175937,173383,Vehicle,380784,42,13613,Eligible
+43,Male,Married,Graduate,74632,Private,29,Medium,Own,0,2,3,356,22632,3091,27560,9262,0,0,310,161525,60279,Home Appliances,33039,27,13854,Not_Eligible
+44,Male,Single,Graduate,96493,Government,40,Medium,Rented,9396,1,1,11852,8199,7376,16805,14045,0,0,742,218008,60230,Vehicle,468490,79,20700,Eligible
+51,Female,Single,Graduate,16310,Private,25,Small,Own,0,2,3,8745,15532,7791,27703,5653,2,12058,600,381635,65320,Personal Loan,670404,35,500,Not_Eligible
+44,Female,Married,Graduate,125024,Self-employed,21,Medium,Own,0,1,0,6026,16589,4104,28538,2474,2,23220,789,413732,135296,Education,133986,10,29178,Eligible
+47,Male,Married,High School,125304,Private,7,Small,Rented,46236,4,0,18673,5326,7208,13788,13782,2,22252,528,174008,23606,Education,352639,38,500,Not_Eligible
+28,Male,Married,High School,73379,Private,16,Small,Rented,22470,6,2,13247,5328,6378,3537,1541,0,0,732,129213,28574,Personal Loan,302824,12,17344,Not_Eligible
+55,Male,Married,High School,63846,Private,35,Small,Own,0,2,3,2766,16892,9080,10512,9895,0,0,764,338369,155724,Personal Loan,353863,49,15112,Eligible
+41,Male,Married,Graduate,155897,Private,15,Medium,Own,0,5,2,2785,5363,8144,17226,3990,0,0,479,29785,41463,Vehicle,903891,18,50000,Not_Eligible
+30,Female,Married,Graduate,49754,Private,2,Large,Family,0,3,1,2343,28450,2678,12669,13939,0,0,653,222944,20992,Home Appliances,52131,9,7362,High_Risk
+54,Female,Single,Graduate,23707,Government,10,Medium,Family,0,1,0,6081,15713,6092,2063,14605,1,6196,553,110004,52731,Vehicle,1156400,69,500,Not_Eligible
+51,Male,Single,Graduate,22479,Self-employed,24,Small,Family,0,5,1,1379,21166,7971,29702,7116,0,0,537,303902,79663,Personal Loan,437533,45,500,Not_Eligible
+26,Female,Single,High School,178125,Private,25,Small,Own,0,2,1,5284,11906,3403,10489,7999,2,13524,740,39145,6623,Vehicle,109703,53,50000,Eligible
+31,Male,Single,Post Graduate,82407,Private,40,Small,Rented,11933,4,1,15301,8964,5944,19326,6819,0,0,424,414508,166989,Home Appliances,96199,31,15332,Not_Eligible
+25,Male,Married,High School,33839,Government,38,Large,Own,0,4,3,17474,14595,4302,28509,6378,1,5206,365,134998,23499,E-commerce,102851,21,500,Not_Eligible
+34,Male,Married,High School,177610,Private,21,Small,Own,0,4,3,15719,21326,3432,17254,14059,0,0,564,257029,80821,E-commerce,116959,13,50000,Not_Eligible
+28,Male,Single,High School,42495,Private,22,Large,Own,0,1,3,9921,11927,2393,21445,4306,1,6269,752,286120,40425,Vehicle,1424708,84,500,Not_Eligible
+50,Male,Married,Professional,77284,Government,32,Medium,Own,0,2,0,13908,8478,836,3005,14397,0,0,389,237587,58952,Personal Loan,482839,29,30512,Not_Eligible
+43,Female,Married,Graduate,18827,Private,1,Medium,Rented,39062,5,0,18879,4319,7624,21509,9756,1,6287,487,223997,9050,Personal Loan,664013,20,500,Not_Eligible
+60,Female,Single,Graduate,140629,Private,24,Large,Rented,33902,6,1,1065,16281,8280,25740,14412,2,5976,667,133487,189651,Education,223852,42,16935,High_Risk
+51,Male,Single,Professional,144371,Private,19,Small,Rented,21591,1,2,18092,20391,6692,27713,9182,2,24432,562,386264,187474,Personal Loan,902056,32,18120,Not_Eligible
+47,Female,Single,High School,154961,Private,32,Medium,Rented,21624,3,2,14466,15798,2790,4346,12284,0,0,633,257952,25308,E-commerce,84158,22,50000,High_Risk
+43,Female,Married,Professional,63663,Private,32,Small,Family,0,6,1,7728,7647,678,8394,7350,1,9174,590,107888,39456,Education,140970,8,17734,Not_Eligible
+26,Female,Single,Graduate,75698,Government,26,Large,Rented,26271,2,0,8973,7421,6502,3315,6936,2,16654,746,131206,176971,Education,82747,10,616,Not_Eligible
+27,Female,Single,Graduate,188553,Private,26,Medium,Own,0,3,1,8771,11312,2399,27702,3862,1,8088,782,219313,82990,Education,445913,7,50000,Not_Eligible
+47,Male,Single,Graduate,167004,Government,28,Small,Family,0,6,3,3158,10436,5714,9696,3154,1,7135,547,421785,12415,Vehicle,552016,55,50000,Not_Eligible
+25,Female,Married,Graduate,21874,Government,23,Large,Own,0,6,3,4606,6113,9718,16882,565,1,11580,537,480685,27174,Home Appliances,190572,31,500,Not_Eligible
+26,Female,Single,Post Graduate,142998,Government,9,Small,Own,0,4,3,5902,28266,542,15322,5751,2,25938,453,194432,82706,Education,491441,23,46791,Not_Eligible
+32,Female,Married,High School,165357,Private,11,Small,Own,0,5,2,116,9892,5984,21285,14817,1,13655,544,197568,111588,E-commerce,54281,4,50000,Not_Eligible
+56,Male,Single,Professional,118460,Private,30,Medium,Own,0,4,0,10023,7518,9947,27068,14075,2,14408,760,64553,126344,Personal Loan,896843,30,20489,Not_Eligible
+41,Male,Married,Graduate,133383,Private,25,Medium,Own,0,2,3,9531,18200,3676,11065,10354,2,11546,576,272842,30641,Education,454293,20,49045,Not_Eligible
+50,Male,Married,Graduate,15183,Private,9,Large,Family,0,6,0,6593,24031,8236,24122,5453,1,2159,680,119984,74008,Education,390221,33,500,Not_Eligible
+39,Male,Married,Professional,20559,Self-employed,35,Medium,Own,0,1,1,3528,13941,8367,10146,7806,0,0,530,409777,52214,Vehicle,1093008,59,500,Not_Eligible
+31,Male,Single,High School,21491,Private,40,Medium,Family,0,1,3,19395,20021,5121,7533,11351,0,0,689,267291,106921,Education,188111,10,500,Not_Eligible
+38,Male,Married,Post Graduate,44410,Self-employed,25,Small,Family,0,4,2,13570,2850,3415,4975,30,1,4643,692,110934,64289,Education,54863,24,15725,High_Risk
+28,Female,Married,Graduate,198311,Private,9,Small,Own,0,6,0,9495,15979,6963,12418,13845,2,25660,590,458144,40800,Education,451181,33,50000,Not_Eligible
+52,Male,Single,Post Graduate,132356,Private,38,Large,Own,0,5,2,14454,1997,6385,17694,13057,1,11593,814,407715,163041,Home Appliances,208780,14,40009,Eligible
+31,Female,Single,High School,159723,Private,9,Small,Own,0,5,0,7443,4125,5028,23847,14556,0,0,782,150281,113807,Personal Loan,511815,31,50000,Eligible
+38,Male,Married,Graduate,69683,Government,17,Medium,Own,0,3,1,4310,17760,2331,25755,1415,2,17828,387,60062,94790,Education,111340,32,5892,Not_Eligible
+60,Female,Married,Graduate,188450,Private,35,Small,Own,0,3,3,13463,6137,7574,16759,14216,0,0,425,132193,26911,Home Appliances,121763,18,50000,Not_Eligible
+46,Male,Single,Graduate,51799,Private,21,Small,Own,0,3,1,15413,1097,2508,13450,9203,1,2377,826,188347,14161,Home Appliances,187132,6,9730,Not_Eligible
+41,Female,Single,High School,181926,Government,9,Medium,Family,0,2,3,13011,5369,1776,6885,8326,0,0,521,203280,159220,Home Appliances,282140,12,50000,Not_Eligible
+44,Male,Married,Graduate,20696,Private,3,Medium,Own,0,3,2,11328,23185,1138,27595,2693,0,0,471,411156,193724,Home Appliances,210176,30,500,Not_Eligible
+53,Male,Married,Post Graduate,18781,Private,14,Medium,Own,0,1,2,48,17604,4740,13089,7378,2,23446,738,483878,116758,Personal Loan,196291,24,500,Not_Eligible
+34,Male,Married,High School,29596,Private,27,Large,Rented,20977,2,2,12757,11454,1641,23410,5449,2,14098,631,373641,7817,Education,235573,41,500,Not_Eligible
+47,Female,Married,Post Graduate,161492,Private,29,Small,Own,0,6,2,12370,29202,3687,19526,14815,0,0,373,422610,96386,E-commerce,130802,13,50000,Not_Eligible
+56,Male,Married,Professional,62637,Private,9,Medium,Own,0,5,0,8249,11572,2797,28082,5096,0,0,350,62564,56039,Home Appliances,257843,20,9894,Not_Eligible
+45,Female,Single,High School,98462,Private,6,Small,Own,0,1,3,4875,26318,4867,29251,3272,1,7846,745,74834,10933,Education,448683,39,23473,Eligible
+41,Female,Married,High School,102193,Private,28,Medium,Own,0,2,1,19583,10348,7888,21792,14196,2,13162,721,454067,28488,Vehicle,324552,39,17301,Eligible
+30,Male,Single,Graduate,161069,Private,6,Small,Own,0,2,2,7505,757,4779,20531,2813,1,3491,494,306877,99955,Home Appliances,27041,13,50000,Not_Eligible
+33,Male,Single,High School,79516,Private,2,Medium,Own,0,2,2,5440,3307,5793,5843,13568,2,2652,775,117861,85375,Personal Loan,71401,17,25029,Eligible
+59,Male,Single,Graduate,16242,Private,19,Small,Rented,6728,5,2,14127,8212,1859,2453,14448,1,11553,369,395932,112714,Education,51920,34,500,Not_Eligible
+44,Male,Single,Graduate,86498,Private,23,Large,Rented,31621,6,1,9639,5597,1574,17289,4610,1,11911,778,87483,138683,Home Appliances,134692,20,1535,Not_Eligible
+35,Male,Married,Graduate,68317,Private,9,Large,Family,0,5,3,11148,4717,9777,21740,10338,0,0,343,384005,53133,Vehicle,1165475,71,8959,Not_Eligible
+40,Male,Single,Graduate,150213,Private,8,Large,Own,0,3,0,12966,11500,6390,22892,11952,2,15824,650,441557,57261,Personal Loan,556328,34,44178,High_Risk
+45,Female,Married,Graduate,153995,Private,9,Small,Family,0,1,2,7373,29271,647,9024,8045,2,9090,764,244423,135518,Education,342465,23,50000,Eligible
+44,Male,Married,Graduate,32012,Private,14,Large,Rented,20866,1,2,3046,6015,5869,16090,10455,0,0,641,328187,39429,Vehicle,708263,33,500,Not_Eligible
+50,Male,Married,Graduate,161709,Self-employed,0,Small,Own,0,5,2,3348,7068,595,26141,1980,2,5058,729,365916,15353,Education,135356,14,50000,Eligible
+34,Female,Married,Graduate,28041,Government,0,Small,Own,0,5,0,18793,29857,1233,4679,7740,2,28496,489,440176,170714,Personal Loan,672552,52,500,Not_Eligible
+48,Female,Married,Post Graduate,129647,Private,15,Small,Own,0,4,1,10110,6039,4048,12749,7699,1,11089,458,291793,41738,Vehicle,681634,18,47692,Not_Eligible
+40,Male,Married,Graduate,87017,Private,0,Small,Own,0,4,0,8340,24906,6736,28447,8497,2,27230,446,146746,24176,Vehicle,946562,77,500,Not_Eligible
+58,Male,Single,Graduate,70732,Private,13,Medium,Own,0,6,2,6387,18626,6394,7589,14164,1,5142,364,100722,147510,Personal Loan,551162,13,16307,Not_Eligible
+30,Male,Married,Graduate,104389,Government,23,Small,Family,0,5,2,14433,27831,8015,10867,12371,0,0,452,177771,106365,E-commerce,25573,14,36580,Not_Eligible
+30,Female,Married,High School,72417,Private,1,Small,Own,0,1,2,18259,16686,2206,15102,9043,2,16512,436,28026,29444,Home Appliances,261251,7,10549,Not_Eligible
+41,Female,Single,Graduate,161865,Private,25,Medium,Rented,17375,3,3,15379,17804,2321,21275,6050,0,0,716,349331,170108,Home Appliances,231002,30,50000,Eligible
+43,Male,Single,High School,193852,Private,25,Large,Rented,31914,1,1,10687,6775,5565,9145,6069,2,11302,417,184750,49110,Education,73206,15,50000,Not_Eligible
+49,Male,Single,Professional,165923,Private,23,Medium,Own,0,3,1,9509,17248,8753,24185,302,0,0,391,355782,135207,Education,51794,30,50000,Not_Eligible
+39,Male,Married,Graduate,96254,Private,25,Medium,Own,0,4,1,17320,20111,7367,8603,8267,1,11846,703,30969,130171,Education,128645,45,28644,Eligible
+57,Female,Married,Post Graduate,108108,Self-employed,33,Small,Own,0,2,0,17127,29606,6858,12310,3787,2,22166,596,160935,165930,E-commerce,27316,17,28955,Not_Eligible
+42,Male,Single,High School,97718,Self-employed,2,Large,Own,0,1,3,7804,2910,1393,18051,13293,1,4170,418,197507,145769,Home Appliances,240313,11,28887,Not_Eligible
+29,Male,Married,Graduate,161805,Private,6,Small,Own,0,3,3,19286,4702,8841,2338,11605,2,20138,688,43773,140612,Home Appliances,90714,30,50000,High_Risk
+29,Male,Married,Graduate,117182,Private,12,Small,Own,0,4,1,16549,581,9852,23486,13693,0,0,419,414440,10297,E-commerce,27632,12,32700,Not_Eligible
+60,Male,Single,Graduate,101603,Private,28,Small,Own,0,5,3,16925,23714,6032,20727,14938,0,0,732,298777,187619,Home Appliances,90025,6,27709,Eligible
+29,Female,Married,Post Graduate,90758,Private,35,Medium,Own,0,1,0,1130,2472,3698,25379,6001,0,0,317,422147,25318,Vehicle,721228,47,26269,Not_Eligible
+59,Male,Single,Professional,84383,Private,37,Small,Own,0,2,0,2600,27465,6794,9697,6426,0,0,625,400927,50710,Education,206223,40,31212,High_Risk
+35,Male,Married,Post Graduate,117244,Private,23,Medium,Family,0,5,1,5962,10946,6603,13135,9121,0,0,628,17036,89224,E-commerce,28241,12,45455,High_Risk
+28,Female,Married,High School,142464,Government,16,Small,Own,0,5,1,15226,8650,9327,27160,6458,1,14970,505,432674,57681,Education,131272,38,39239,Not_Eligible
+35,Female,Single,Post Graduate,94982,Self-employed,16,Medium,Family,0,6,0,1563,29251,1551,3870,4188,0,0,679,34767,118559,Education,300534,36,46463,High_Risk
+47,Male,Married,High School,164233,Private,2,Medium,Rented,6803,5,2,1657,21611,5395,15754,10607,2,7022,509,435582,10582,E-commerce,30426,13,50000,Not_Eligible
+40,Male,Married,Post Graduate,167943,Private,19,Small,Own,0,6,3,633,16417,7240,15551,6766,0,0,660,334934,90756,Home Appliances,34178,16,50000,High_Risk
+53,Female,Married,Graduate,94379,Private,21,Medium,Own,0,4,1,3838,26669,3815,14530,14128,2,29470,423,409715,69891,Vehicle,1422256,65,9492,Not_Eligible
+46,Male,Married,Graduate,183175,Private,8,Medium,Own,0,6,1,18378,22642,8485,14146,3298,2,15124,613,249999,129414,Education,85255,21,50000,High_Risk
+39,Female,Married,High School,47012,Private,31,Medium,Rented,20993,3,0,14424,19124,1114,22924,6657,2,24160,716,80076,103960,Personal Loan,877280,20,500,Not_Eligible
+47,Female,Single,High School,187441,Private,33,Small,Own,0,6,1,14338,9645,1500,7515,7972,2,9006,832,74679,151199,Education,390699,19,50000,Eligible
+59,Female,Married,Graduate,69408,Private,12,Medium,Own,0,3,3,5850,29584,8013,26953,13618,2,19946,498,59361,32890,Home Appliances,153561,33,500,Not_Eligible
+39,Male,Married,Post Graduate,119395,Government,37,Small,Family,0,3,3,12502,21580,1695,27092,8674,2,26810,560,402765,189909,Education,352647,18,21871,Not_Eligible
+30,Female,Married,Post Graduate,67463,Private,4,Small,Own,0,5,0,15580,28369,4476,7023,1035,1,10396,562,266789,78427,Education,53964,16,21728,Not_Eligible
+39,Female,Married,Professional,96797,Private,37,Small,Rented,27630,3,0,10650,28986,3170,29277,5067,1,8240,773,108248,69976,Vehicle,673236,21,2837,Not_Eligible
+55,Male,Married,High School,77911,Private,31,Medium,Own,0,1,3,17123,16478,7037,9337,13292,1,3947,830,62426,109667,E-commerce,177608,4,20101,Not_Eligible
+32,Female,Single,Graduate,145470,Self-employed,9,Small,Own,0,6,0,11391,10733,613,3448,4082,1,4267,655,39074,32621,Home Appliances,171387,36,50000,High_Risk
+59,Female,Married,Graduate,30020,Private,26,Medium,Rented,6043,3,2,6492,28416,3890,13146,5110,1,9356,753,129046,162912,E-commerce,73643,14,500,Not_Eligible
+46,Female,Single,Graduate,170090,Private,12,Small,Own,0,6,3,12774,29972,9868,24281,2265,0,0,346,374754,52817,Education,83055,37,50000,Not_Eligible
+46,Male,Married,Graduate,182212,Private,32,Medium,Own,0,3,3,18863,3659,4004,25649,10791,2,3300,718,446206,185487,Home Appliances,293696,29,50000,Eligible
+36,Male,Married,Graduate,119152,Private,6,Small,Rented,39597,6,2,16532,19152,6185,20080,2093,2,7488,746,304063,29633,Personal Loan,191962,29,13915,Eligible
+58,Female,Married,Graduate,116246,Self-employed,10,Medium,Own,0,4,1,9969,18073,9887,24714,5517,2,14096,693,497854,172840,Home Appliances,222597,30,27147,High_Risk
+26,Male,Married,High School,144497,Private,12,Medium,Own,0,5,3,11938,22458,6272,9320,10672,0,0,621,197221,78849,Education,231521,47,50000,High_Risk
+35,Female,Single,Graduate,51828,Self-employed,8,Small,Own,0,5,2,19520,29263,7673,26612,13433,2,17510,795,166256,121472,Personal Loan,243367,48,500,Not_Eligible
+40,Female,Married,Graduate,153700,Private,13,Small,Own,0,2,3,14972,7565,9611,19785,3324,1,5209,660,346363,174514,Home Appliances,159009,28,50000,High_Risk
+42,Female,Married,High School,55454,Private,24,Medium,Rented,22842,5,2,10050,29273,6364,5740,4983,0,0,766,67336,25828,Vehicle,926349,43,3103,Not_Eligible
+42,Male,Single,Post Graduate,140133,Private,25,Large,Family,0,6,3,5619,19293,8405,5602,1769,2,5032,399,455691,69412,E-commerce,164922,21,50000,Not_Eligible
+30,Female,Single,Graduate,71532,Private,22,Large,Own,0,4,3,18118,2475,5328,9484,6568,2,16090,666,390072,189680,E-commerce,165282,4,13828,Not_Eligible
+33,Male,Single,Post Graduate,153035,Private,7,Small,Rented,5879,6,0,19536,15330,8236,3943,14984,2,7282,541,17091,29764,Education,240370,38,50000,Not_Eligible
+28,Female,Married,Graduate,161346,Private,8,Medium,Family,0,6,1,1414,4004,6599,9917,4563,1,9826,778,93618,20576,Education,440047,21,50000,Eligible
+45,Male,Married,Post Graduate,53599,Private,37,Small,Rented,12232,4,3,637,28693,3725,29818,3899,0,0,785,313840,104527,Education,383258,30,500,Not_Eligible
+37,Male,Married,Post Graduate,129226,Government,10,Small,Own,0,3,0,2302,22896,5803,8722,5996,0,0,765,369274,4944,Personal Loan,259571,55,50000,Eligible
+45,Female,Single,Post Graduate,107199,Self-employed,4,Medium,Own,0,6,2,7731,27141,3681,19818,13441,2,20670,418,109083,198389,Home Appliances,144539,24,19704,Not_Eligible
+46,Female,Married,Graduate,69397,Private,18,Medium,Family,0,2,1,3197,18076,4272,29371,8206,2,24610,571,373472,180750,E-commerce,64800,3,500,Not_Eligible
+50,Female,Single,Graduate,123830,Private,0,Medium,Family,0,4,0,17641,11900,3271,9090,9138,0,0,300,237069,37636,Personal Loan,480189,47,50000,Not_Eligible
+44,Male,Married,High School,198643,Government,14,Large,Rented,25048,5,2,18285,12851,5165,21493,11708,2,21090,839,337617,34539,Home Appliances,111610,34,50000,Eligible
+48,Female,Single,Graduate,15458,Private,35,Small,Own,0,6,3,3610,28407,3793,14601,10726,0,0,441,211990,155575,E-commerce,152537,17,500,Not_Eligible
+46,Female,Married,High School,192023,Self-employed,10,Medium,Own,0,2,3,16582,4547,6447,9988,8983,2,16024,644,227124,104148,E-commerce,163265,21,50000,High_Risk
+48,Female,Married,Graduate,173353,Private,28,Small,Own,0,1,1,2826,26545,4010,28603,8414,0,0,568,194990,164672,Vehicle,1104141,72,50000,Not_Eligible
+47,Female,Single,High School,112934,Government,20,Small,Own,0,3,0,15747,12660,5165,20388,7999,2,20704,798,78473,193524,Education,370983,43,25263,Eligible
+36,Male,Married,Graduate,127855,Private,14,Small,Rented,9865,6,3,7308,17712,1830,14284,2712,0,0,752,95178,80268,Home Appliances,49050,16,50000,Eligible
+33,Male,Married,High School,83300,Private,27,Large,Rented,5737,4,3,805,20010,4172,24739,6215,1,3357,728,83838,50777,Education,449508,26,15693,Not_Eligible
+53,Female,Single,Graduate,38890,Private,24,Medium,Rented,45453,1,2,8564,2463,3881,27213,12706,2,6036,654,401325,123910,Home Appliances,24185,32,500,Not_Eligible
+37,Female,Single,Post Graduate,120723,Private,13,Small,Rented,35223,1,2,16456,4460,9631,23882,590,2,12556,365,211632,127005,Personal Loan,672825,56,10287,Not_Eligible
+44,Male,Married,Post Graduate,166026,Self-employed,9,Medium,Rented,38470,3,2,18668,4823,4744,26327,12420,1,12266,806,189760,86475,Home Appliances,24541,10,27015,Eligible
+32,Male,Single,Graduate,57755,Self-employed,37,Large,Family,0,3,0,2422,23361,704,11016,8489,2,17472,334,427832,59809,Personal Loan,534957,20,5966,Not_Eligible
+40,Female,Single,Graduate,147656,Private,6,Large,Own,0,1,0,16723,2306,3439,11636,5245,0,0,551,443599,52465,Home Appliances,165797,16,50000,Not_Eligible
+44,Female,Married,Graduate,153390,Private,39,Medium,Own,0,3,0,5865,18327,7430,8515,1711,1,13859,509,116990,104310,Personal Loan,249661,49,50000,Not_Eligible
+47,Male,Married,Graduate,155286,Private,19,Small,Family,0,3,3,9282,3239,2070,21488,11458,2,13336,515,177334,85224,Vehicle,135226,75,50000,Not_Eligible
+43,Female,Single,Graduate,77900,Private,40,Medium,Own,0,2,0,2175,23035,2048,24489,10,0,0,838,205870,91506,E-commerce,39219,15,25041,Eligible
+37,Female,Single,Graduate,87528,Private,14,Large,Own,0,2,2,19460,29309,4047,20494,8146,1,12471,427,419857,19058,Home Appliances,297626,9,17405,Not_Eligible
+59,Male,Married,Professional,91999,Self-employed,23,Large,Family,0,4,1,15805,12421,3889,18778,2435,1,6277,619,335814,176159,Home Appliances,279523,15,29554,High_Risk
+43,Male,Married,High School,173028,Government,25,Large,Own,0,6,0,12846,6365,5069,23594,13636,1,9641,420,272233,141391,Vehicle,1132255,74,50000,Not_Eligible
